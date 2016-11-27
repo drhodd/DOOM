@@ -1,0 +1,2869 @@
+====== START OF OBLIGE LOGS ======
+
+********************************************************
+** OBLIGE Level Maker 6.20 (C) 2006-2015 Andrew Apted **
+********************************************************
+
+Library versions: FLTK 1.3.3
+
+   home_dir: C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20
+install_dir: C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20
+config_file: C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/CONFIG.txt
+
+Missing Options file -- using defaults.
+
+
+--- OPENING LUA VM ---
+
+game_dir: C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom
+
+data_path: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/modules/data;C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/data]
+
+Loading main script: oblige.lua
+script_path: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/scripts/?.lua]
+DONE.
+
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/engines]
+Loading 1/12 : boom.lua
+Loading 2/12 : darkplaces.lua
+Loading 3/12 : doomsday.lua
+Loading 4/12 : edge.lua
+Loading 5/12 : eternity.lua
+Loading 6/12 : fitz.lua
+Loading 7/12 : fs_things.lua
+Loading 8/12 : legacy.lua
+Loading 9/12 : odamex.lua
+Loading 10/12 : skulltag.lua
+Loading 11/12 : vavoom.lua
+Loading 12/12 : zdoom.lua
+DONE.
+
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/modules]
+Loading 1/15 : ctl_doom.lua
+Loading 2/15 : ctl_heretic.lua
+Loading 3/15 : ctl_quake.lua
+Loading 4/15 : ctl_quake2.lua
+Loading 5/15 : export_map.lua
+Loading 6/15 : game_tweaks.lua
+Loading 7/15 : imm_conduct.lua
+Loading 8/15 : level_control.lua
+Loading 9/15 : music_swap.lua
+Loading 10/15 : no_prebuilt.lua
+Loading 11/15 : sktag_mons.lua
+Loading 12/15 : sky_generator.lua
+Loading 13/15 : stealth_mons.lua
+Loading 14/15 : theme_control.lua
+Loading 15/15 : zdoom_marines.lua
+DONE.
+
+script_path: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/?.lua]
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/border]
+Loading 1/2 : dropoff.lua
+Loading 2/2 : rocky.lua
+DONE.
+
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/bridge]
+Loading 1/2 : curvey.lua
+Loading 2/2 : narrow.lua
+DONE.
+
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/cage]
+Loading 1/2 : fat_cage.lua
+Loading 2/2 : fat_trap.lua
+DONE.
+
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/ceiling]
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/closet]
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/corner]
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/decor]
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/diagonal]
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/door]
+Loading 1/12 : arch.lua
+Loading 2/12 : archy_arch.lua
+Loading 3/12 : arch_stair.lua
+Loading 4/12 : door_w_bars.lua
+Loading 5/12 : key_door.lua
+Loading 6/12 : large.lua
+Loading 7/12 : secret.lua
+Loading 8/12 : sw_door.lua
+Loading 9/12 : techy.lua
+Loading 10/12 : viney_arch.lua
+Loading 11/12 : wolfen.lua
+Loading 12/12 : wood_arch.lua
+DONE.
+
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/exit]
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/fake]
+Loading 1/1 : big_logo.lua
+DONE.
+
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/fence]
+Loading 1/5 : bars.lua
+Loading 2/5 : fence_16.lua
+Loading 3/5 : gappy.lua
+Loading 4/5 : secr_fence.lua
+Loading 5/5 : tall_gap.lua
+DONE.
+
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/floor]
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/hall]
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/item]
+Loading 1/3 : pedestal.lua
+Loading 2/3 : pentagram.lua
+Loading 3/3 : podium.lua
+DONE.
+
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/joiner]
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/junction]
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/misc]
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/room]
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/stairs]
+Loading 1/8 : lift.lua
+Loading 2/8 : niche_32.lua
+Loading 3/8 : niche_56.lua
+Loading 4/8 : niche_96.lua
+Loading 5/8 : niche_lift.lua
+Loading 6/8 : stair_32.lua
+Loading 7/8 : stair_56.lua
+Loading 8/8 : stair_96.lua
+DONE.
+
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/start]
+Loading 1/2 : basic.lua
+Loading 2/2 : closet1.lua
+DONE.
+
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/switch]
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/teleporter]
+Loading 1/2 : closet2.lua
+Loading 2/2 : pad1.lua
+DONE.
+
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/wall]
+Loading 1/12 : cross.lua
+Loading 2/12 : double_64.lua
+Loading 3/12 : firewall.lua
+Loading 4/12 : liq_fall.lua
+Loading 5/12 : lite_3.lua
+Loading 6/12 : logo.lua
+Loading 7/12 : pic_128x128.lua
+Loading 8/12 : pic_128x48.lua
+Loading 9/12 : pic_64x128.lua
+Loading 10/12 : pic_64x64.lua
+Loading 11/12 : scroller.lua
+Loading 12/12 : wall_16.lua
+DONE.
+
+Loading scripts from: [C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/games/doom/window]
+Loading 1/4 : double.lua
+Loading 2/4 : liq_arch.lua
+Loading 3/4 : narrow.lua
+Loading 4/4 : wide.lua
+DONE.
+
+~~ Oblige Lua initialization begun ~~
+
+~~ Completed Lua initialization ~~
+
+Missing Config file -- using defaults.
+
+Saving Config...
+DONE.
+
+Created WAD file: C:\Users\Don\Desktop\DOOM\wads\generated\1.wad
+
+
+~~~~~~~ Making Levels ~~~~~~~
+
+game = doom2
+mode = sp
+engine = gzdoom
+length = few
+seed = 1473811042
+
+theme = mostly_tech
+size = large
+outdoors = heaps
+caves = heaps
+
+mons = normal
+strength = medium
+weapons = normal
+powers = normal
+health = normal
+ammo = normal
+
+---- Modules ----
+
+@doom_mon_control = 0
+
+caco = default
+gunner = default
+Mastermind = default
+skull = default
+demon = default
+knight = default
+ss_dude = default
+vile = default
+zombie = default
+Cyberdemon = default
+baron = default
+spectre = default
+arach = default
+mancubus = default
+revenant = default
+pain = default
+imp = default
+shooter = default
+
+@doom_weapon_control = 0
+
+super = default
+saw = default
+chain = default
+plasma = default
+launch = default
+bfg = default
+berserk = default
+shotty = default
+
+@export_map = 0
+
+@gameplay_tweaks = 0
+
+quiet_start = no
+keep_weapons = no
+start_together = no
+
+@heretic_mon_control = 0
+
+mummy = default
+Maulotaur = default
+sabreclaw = default
+gargoyle = default
+leader = default
+weredragon = default
+fire_garg = default
+ohpibian = default
+D_Sparil = default
+Ironlich = default
+knight = default
+disciple = default
+
+@heretic_weapon_control = 0
+
+crossbow = default
+gauntlets = default
+hellstaff = default
+claw = default
+firemace = default
+phoenix = default
+
+@imm_conduct = 0
+
+helper = mixed
+new_mons = scarce
+
+@level_control = 0
+
+secrets = mixed
+big_rooms = mixed
+doors = mixed
+hallways = mixed
+ex_floors = mixed
+darkness = mixed
+windows = mixed
+switches = mixed
+steepness = mixed
+pillars = mixed
+sub_rooms = mixed
+teleporters = mixed
+crates = mixed
+lakes = mixed
+traps = mixed
+symmetry = mixed
+cages = mixed
+scenics = mixed
+pictures = mixed
+mon_variety = mixed
+liquids = mixed
+
+@music_swapper = 0
+
+@no_prebuilt_doom = 0
+
+@quake2_mon_control = 0
+
+Huge_flyer = default
+parasite = default
+beserker = default
+brain = default
+enforcer = default
+grenader = default
+medic = default
+guard = default
+guard_mg = default
+Super_tank = default
+tank_cmdr = default
+flyer = default
+shark = default
+tank = default
+gladiator = default
+maiden = default
+mutant = default
+icarus = default
+guard_sg = default
+technician = default
+
+@quake2_weapon_control = 0
+
+rocket = default
+rail = default
+machine = default
+shotty = default
+chain = default
+ssg = default
+bfg = default
+hyper = default
+grenade = default
+
+@quake_mon_control = 0
+
+grunt = default
+fiend = default
+death_kt = default
+ogre = default
+enforcer = default
+fish = default
+dog = default
+knight = default
+tarbaby = default
+shambler = default
+vore = default
+scrag = default
+zombie = default
+
+@quake_weapon_control = 0
+
+rocket = default
+nailgun = default
+ssg = default
+nailgun2 = default
+zapper = default
+grenade = default
+
+@sktag_mon_control = 0
+
+cacolant = default
+superguy = default
+darkimp = default
+bldemon = default
+abaddon = default
+belphegor = default
+hectebus = default
+
+@sktag_mons = 0
+
+def_mon = some
+def_weap = some
+
+@sktag_weap_control = 0
+
+bfg10k = default
+minigun = default
+glaunch = default
+railgun = default
+
+@sky_generator = 0
+
+@stealth_mon_control = 0
+
+stealth_demon = default
+stealth_baron = default
+stealth_zombie = default
+stealth_caco = default
+stealth_imp = default
+stealth_mancubus = default
+stealth_arach = default
+stealth_revenant = default
+stealth_shooter = default
+stealth_vile = default
+stealth_knight = default
+stealth_gunner = default
+
+@stealth_mons = 0
+
+qty = normal
+
+@theme_ctl_doom1 = 0
+
+episode4 = no_change
+episode3 = no_change
+secret = no_change
+episode2 = no_change
+episode1 = no_change
+
+@theme_ctl_doom2 = 0
+
+secret = no_change
+episode2 = no_change
+episode3 = no_change
+episode1 = no_change
+
+@zdoom_marine_control = 0
+
+marine_bfg = default
+marine_chain = default
+marine_pistol = default
+marine_ssg = default
+marine_rail = default
+marine_berserk = default
+marine_plasma = default
+marine_rocket = default
+marine_fist = default
+marine_saw = default
+marine_shotty = default
+
+@zdoom_marines = 0
+
+qty = plenty
+
+-- END --
+
+Theme for level MAP01 = tech
+Theme for level MAP02 = tech
+Theme for level MAP03 = tech
+Theme for level MAP04 = urban
+
+Special levels:
+  none
+
+
+~~~~~~| MAP01 |~~~~~~
+
+Styles = 
+{
+  ambushes = none
+  barrels = some
+  beams = few
+  big_juncs = none
+  big_rooms = none
+  cages = some
+  caves = heaps
+  closets = heaps
+  crates = some
+  crossovers = none
+  cycles = none
+  doors = few
+  ex_floors = some
+  fences = none
+  hallways = few
+  islands = few
+  junk = few
+  lakes = few
+  liquids = heaps
+  lt_spokes = none
+  lt_swapped = none
+  lt_trim = heaps
+  mon_variety = some
+  naturals = none
+  outdoors = heaps
+  pictures = heaps
+  pillars = some
+  room_shape = X
+  scenics = some
+  secrets = some
+  steepness = few
+  sub_rooms = none
+  switches = few
+  symmetry = heaps
+  teleporters = few
+  traps = some
+  windows = some
+}
+
+
+--==| Planning Rooms |==--
+
+Liquid: nukage (usage 90%)
+
+Map Size: 7x6 sections
+col_W: 3 3 5 6 3 3 4 
+row_H: 3 3 3 4 3 4 
+Seed_init: 33x26  Free: 0x4
+Reserved room quota: 1
+Cave Quota: 6 rooms / 31.9 sections
+
+Room Map:
+  //L/A//
+  //K////
+  ///////
+  ///HJ//
+  I//////
+  OMPNQ//
+
+Outdoor Quota: 75% (444 seeds)
+Seed Map:
+  .................................
+  .................................
+  .................................
+  .................................
+  eeeeeeeee#####dddddd###bbbbbbbbbb
+  eeeeeeeee#####dddddd###bbbbbbbbbb
+  eeeeeeeee#####dddddd***bbbbbbbbbb
+  eeeeeeeeeLLLLLdddddd***bbbbbbbbbb
+  eeeeeeeeeLLLLLdddddd***bbbbbbbbbb
+  eeeeeeeeeLLLLLdddddddddbbbbbbbbbb
+  eeeeeeeeeKKKKKdddddddddbbbbbbbbbb
+  eeeeeeeeeKKKKKdddddddddbbbggggggg
+  eeeeeeeeeKKKKKdddddddddbbbggggggg
+  eeeeeeeeeddddddddddddddbbbggggggg
+  eeeeeedddddddddddddddddgggggggggg
+  ffffffdddddddddddddddddgggggggggg
+  ffffffdddddddddddddddddgggggggggg
+  ffffffdddddddddddddddddgggggggggg
+  ffffffffffffffffHHHJJJggggggggggg
+  ffffffffffffffffHHHJJJggggggggggg
+  ffffffffffffffffHHHJJJggggggggggg
+  ##IIIfffffffffffffffccccccccccccc
+  ##IIIfffffffffffffffccccccccccccc
+  ##IIIfffffffffffffffccccccccccccc
+  ###OOOMMMfffffffffffQQQcccccccccc
+  ###OOOMMMPPPPPffffffQQQcccccccccc
+  ###OOOMMMPPPPPNNNNNNQQQcccccccccc
+  #########PPPPPNNNNNN###cccccccccc
+  ##############NNNNNN###cccccccccc
+  #######################cccccccccc
+
+Final ROOM_2   size: 10x10
+Final ROOM_3   size: 13x9
+Final ROOM_4   size: 17x14
+Final ROOM_5   size: 9x11
+Final ROOM_6   size: 20x11
+Final ROOM_7   size: 11x10
+Final ROOM_8   size: 3x3
+Final ROOM_9   size: 3x3
+Final ROOM_10   size: 3x3
+Final ROOM_11   size: 5x3
+Final ROOM_12   size: 5x3
+Final ROOM_13   size: 3x3
+Final ROOM_14   size: 6x3
+Final ROOM_15   size: 3x3
+Final ROOM_16   size: 5x3
+Final ROOM_17   size: 3x3
+
+--==| Connecting Rooms |==--
+
+Teleporter quota: 1
+Big Branch Mode: 99%
+Start room: ROOM_16
+
+--==| Make Quests |==--
+
+Monster max_level: 3.3
+Weapon max level: 3.3
+Zone list:
+  ZONE_1 : rooms:5 head:ROOM_16 solve:KEY(kc_red)
+  ZONE_4 : rooms:3 head:ROOM_6 solve:KEY(kc_yellow)
+  ZONE_3 : rooms:4 head:ROOM_8 solve:KEY(kc_blue)
+  ZONE_2 : rooms:3 head:ROOM_4 solve:EXIT()
+Exit room: ROOM_5
+Final Battle in ROOM_4
+Facade for ZONE_1 : STARGR2
+Facade for ZONE_4 : BROWN96
+Facade for ZONE_3 : METAL2
+Facade for ZONE_2 : BROWNGRN
+Weapon quota: 3
+Weapon list:
+   shotty
+   chain
+   super
+
+--==| Build Rooms |==--
+
+
+--==| Make Battles |==--
+
+
+Giving weapon: shotty
+Giving weapon: chain
+Giving weapon: super
+DOOM CSG...
+Removed 70822 dead regions (of 105642)
+Swallowed 3717 brushes (of 70920)
+Filled 12 gaps (of 32207 total)
+Lighting level...
+Found 118 light entities, 2994 lit faces, 30421 sky faces
+WARNING: degenerate linedef @ (2675 1728)
+WARNING: degenerate linedef @ (2701 1536)
+WARNING: degenerate linedef @ (2530 1344)
+WARNING: degenerate linedef @ (2771 1632)
+WARNING: degenerate linedef @ (3296 1076)
+WARNING: degenerate linedef @ (3085 1344)
+WARNING: degenerate linedef @ (4525 608)
+WARNING: degenerate linedef @ (4510 857)
+WARNING: degenerate linedef @ (4608 1122)
+WARNING: degenerate linedef @ (4426 1280)
+WARNING: degenerate linedef @ (4608 1374)
+WARNING: degenerate linedef @ (4715 344)
+WARNING: degenerate linedef @ (4992 610)
+WARNING: degenerate linedef @ (4992 990)
+WARNING: degenerate linedef @ (4832 1443)
+WARNING: degenerate linedef @ (4830 1344)
+WARNING: degenerate linedef @ (5184 162)
+WARNING: degenerate linedef @ (226 1984)
+WARNING: degenerate linedef @ (109 2144)
+WARNING: degenerate linedef @ (542 2304)
+WARNING: degenerate linedef @ (606 2304)
+WARNING: degenerate linedef @ (339 2464)
+WARNING: degenerate linedef @ (1133 1952)
+WARNING: degenerate linedef @ (1069 1760)
+WARNING: degenerate linedef @ (1300 1280)
+WARNING: degenerate linedef @ (1300 1280)
+WARNING: degenerate linedef @ (1300 1280)
+WARNING: degenerate linedef @ (1331 1344)
+WARNING: degenerate linedef @ (1310 1344)
+WARNING: degenerate linedef @ (1613 1536)
+WARNING: degenerate linedef @ (2048 2082)
+WARNING: degenerate linedef @ (2018 2112)
+WARNING: degenerate linedef @ (2082 2112)
+WARNING: degenerate linedef @ (2144 1756)
+WARNING: degenerate linedef @ (2338 1908)
+WARNING: degenerate linedef @ (2432 1506)
+WARNING: degenerate linedef @ (2324 1344)
+WARNING: degenerate linedef @ (2324 1344)
+WARNING: degenerate linedef @ (2324 1344)
+WARNING: degenerate linedef @ (5376 2654)
+WARNING: degenerate linedef @ (5150 2880)
+WARNING: degenerate linedef @ (5117 2672)
+WARNING: degenerate linedef @ (5184 2718)
+WARNING: degenerate linedef @ (5616 1999)
+WARNING: degenerate linedef @ (5677 2016)
+WARNING: degenerate linedef @ (5932 2112)
+WARNING: degenerate linedef @ (5932 2112)
+WARNING: degenerate linedef @ (5932 2112)
+WARNING: degenerate linedef @ (5760 2270)
+WARNING: degenerate linedef @ (6188 3200)
+WARNING: degenerate linedef @ (6188 3200)
+WARNING: degenerate linedef @ (6188 3200)
+WARNING: degenerate linedef @ (1300 2816)
+WARNING: degenerate linedef @ (1300 2816)
+WARNING: degenerate linedef @ (1300 2816)
+WARNING: degenerate linedef @ (6046 2496)
+WARNING: degenerate linedef @ (1741 2624)
+WARNING: degenerate linedef @ (1766 2880)
+WARNING: degenerate linedef @ (1747 2720)
+WARNING: degenerate linedef @ (1830 2880)
+WARNING: degenerate linedef @ (1920 2530)
+WARNING: degenerate linedef @ (1950 2496)
+WARNING: degenerate linedef @ (2743 3176)
+WARNING: degenerate linedef @ (2528 2630)
+WARNING: degenerate linedef @ (2846 2496)
+WARNING: degenerate linedef @ (5283 236)
+WARNING: degenerate linedef @ (5293 864)
+WARNING: degenerate linedef @ (5184 1246)
+WARNING: degenerate linedef @ (5150 1536)
+WARNING: degenerate linedef @ (5203 864)
+WARNING: degenerate linedef @ (5218 512)
+WARNING: degenerate linedef @ (5406 960)
+WARNING: degenerate linedef @ (5612 1280)
+WARNING: degenerate linedef @ (5612 1280)
+WARNING: degenerate linedef @ (5602 1344)
+WARNING: degenerate linedef @ (5581 1344)
+WARNING: degenerate linedef @ (5612 1280)
+WARNING: degenerate linedef @ (5523 1056)
+WARNING: degenerate linedef @ (5598 192)
+WARNING: degenerate linedef @ (5854 192)
+WARNING: degenerate linedef @ (5730 192)
+WARNING: degenerate linedef @ (5925 1024)
+WARNING: degenerate linedef @ (6016 354)
+WARNING: degenerate linedef @ (5965 1152)
+WARNING: degenerate linedef @ (5854 576)
+WARNING: degenerate linedef @ (5858 960)
+WARNING: degenerate linedef @ (5837 960)
+WARNING: degenerate linedef @ (5952 354)
+WARNING: degenerate linedef @ (6046 384)
+WARNING: degenerate linedef @ (6144 226)
+WARNING: degenerate linedef @ (4632 1928)
+WARNING: degenerate linedef @ (6252 768)
+WARNING: degenerate linedef @ (6252 768)
+WARNING: degenerate linedef @ (6252 768)
+WARNING: degenerate linedef @ (4884 2880)
+WARNING: degenerate linedef @ (4884 2880)
+WARNING: degenerate linedef @ (4884 2880)
+WARNING: degenerate linedef @ (5094 2872)
+WARNING: degenerate linedef @ (4680 2728)
+WARNING: degenerate linedef @ (4736 3810)
+WARNING: degenerate linedef @ (4706 3840)
+WARNING: degenerate linedef @ (4800 3486)
+WARNING: degenerate linedef @ (4774 3456)
+WARNING: degenerate linedef @ (4800 3810)
+WARNING: degenerate linedef @ (4770 3840)
+WARNING: degenerate linedef @ (4651 3672)
+WARNING: degenerate linedef @ (4692 4056)
+WARNING: degenerate linedef @ (4692 4056)
+WARNING: degenerate linedef @ (4692 4056)
+WARNING: degenerate linedef @ (4958 4864)
+WARNING: degenerate linedef @ (4992 4766)
+WARNING: degenerate linedef @ (5035 4376)
+WARNING: degenerate linedef @ (5120 4318)
+WARNING: degenerate linedef @ (5152 3940)
+WARNING: degenerate linedef @ (4864 4574)
+WARNING: degenerate linedef @ (4837 3840)
+WARNING: degenerate linedef @ (4864 4442)
+WARNING: degenerate linedef @ (5440 4002)
+WARNING: degenerate linedef @ (5491 4032)
+WARNING: degenerate linedef @ (5470 4032)
+WARNING: degenerate linedef @ (5171 4608)
+WARNING: degenerate linedef @ (5216 3940)
+WARNING: degenerate linedef @ (5248 4514)
+WARNING: degenerate linedef @ (5292 4672)
+WARNING: degenerate linedef @ (5292 4672)
+WARNING: degenerate linedef @ (5292 4672)
+WARNING: degenerate linedef @ (5709 4544)
+WARNING: degenerate linedef @ (5568 4248)
+WARNING: degenerate linedef @ (5568 4454)
+WARNING: degenerate linedef @ (5580 4787)
+WARNING: degenerate linedef @ (5598 4672)
+WARNING: degenerate linedef @ (5600 4708)
+WARNING: degenerate linedef @ (5598 4736)
+WARNING: degenerate linedef @ (5684 4172)
+WARNING: degenerate linedef @ (5875 4032)
+WARNING: degenerate linedef @ (5933 4192)
+WARNING: degenerate linedef @ (6144 4194)
+WARNING: degenerate linedef @ (6114 4800)
+WARNING: degenerate linedef @ (192 3230)
+WARNING: degenerate linedef @ (102 4032)
+WARNING: degenerate linedef @ (192 2974)
+WARNING: degenerate linedef @ (275 3680)
+WARNING: degenerate linedef @ (208 3709)
+WARNING: degenerate linedef @ (224 4038)
+WARNING: degenerate linedef @ (3042 3584)
+WARNING: degenerate linedef @ (3155 3296)
+WARNING: degenerate linedef @ (3180 3456)
+WARNING: degenerate linedef @ (3180 3456)
+WARNING: degenerate linedef @ (3180 3456)
+WARNING: degenerate linedef @ (3347 4640)
+WARNING: degenerate linedef @ (3575 2600)
+WARNING: degenerate linedef @ (3618 4704)
+WARNING: degenerate linedef @ (4032 3106)
+WARNING: degenerate linedef @ (3853 2688)
+WARNING: degenerate linedef @ (4139 3160)
+WARNING: degenerate linedef @ (4083 3328)
+WARNING: degenerate linedef @ (4151 2600)
+WARNING: degenerate linedef @ (4268 3776)
+WARNING: degenerate linedef @ (4268 3776)
+WARNING: degenerate linedef @ (4268 3776)
+WARNING: degenerate linedef @ (1406 4064)
+WARNING: degenerate linedef @ (1438 4684)
+WARNING: degenerate linedef @ (1408 3358)
+WARNING: degenerate linedef @ (1378 3840)
+WARNING: degenerate linedef @ (1393 4684)
+WARNING: degenerate linedef @ (1536 3166)
+WARNING: degenerate linedef @ (1677 3840)
+WARNING: degenerate linedef @ (1677 3648)
+WARNING: degenerate linedef @ (1645 3488)
+WARNING: degenerate linedef @ (1634 4224)
+WARNING: degenerate linedef @ (1634 4416)
+WARNING: degenerate linedef @ (448 3426)
+WARNING: degenerate linedef @ (563 4544)
+WARNING: degenerate linedef @ (555 4632)
+WARNING: degenerate linedef @ (478 3456)
+WARNING: degenerate linedef @ (499 4416)
+WARNING: degenerate linedef @ (896 3230)
+WARNING: degenerate linedef @ (1008 4814)
+WARNING: degenerate linedef @ (1024 3294)
+WARNING: degenerate linedef @ (1250 4660)
+Merged 6490 colinear lines
+Rounded 345 square corners
+Aligned 4418 textures
+
+
+~~~~~~| MAP02 |~~~~~~
+
+Styles = 
+{
+  ambushes = heaps
+  barrels = some
+  beams = some
+  big_juncs = none
+  big_rooms = some
+  cages = few
+  caves = heaps
+  closets = heaps
+  crates = heaps
+  crossovers = none
+  cycles = some
+  doors = some
+  ex_floors = some
+  fences = some
+  hallways = few
+  islands = heaps
+  junk = some
+  lakes = few
+  liquids = few
+  lt_spokes = none
+  lt_swapped = heaps
+  lt_trim = none
+  mon_variety = some
+  naturals = few
+  outdoors = heaps
+  pictures = some
+  pillars = few
+  room_shape = O
+  scenics = some
+  secrets = few
+  steepness = some
+  sub_rooms = none
+  switches = some
+  symmetry = some
+  teleporters = few
+  traps = heaps
+  windows = few
+}
+
+
+--==| Planning Rooms |==--
+
+Liquid: water (usage 20%)
+
+Map Size: 7x6 sections
+col_W: 3 4 3 4 6 7 4 
+row_H: 3 3 5 3 4 3 
+Seed_init: 37x27  Free: 0x4
+Reserved room quota: 1
+Cave Quota: 5 rooms / 29.3 sections
+
+Room Map:
+  L//////
+  O//////
+  /////M/
+  GGK////
+  GGI////
+  NAHJ///
+
+Outdoor Quota: 75% (504 seeds)
+Seed Map:
+  .....................................
+  .....................................
+  .....................................
+  .....................................
+  ######fffffffeeeeeeeddddddddddddddddd
+  ######fffffffeeeeeeeddddddddddddddddd
+  ######fffffffeeeeeeeddddddddddddddddd
+  ###LLLfffffffeeeeeeeddddddddddddddddd
+  ###LLLfffffffeeeeeeeddddddddddddddddd
+  ###LLLfffffffeeeeeeeddddddddddddddddd
+  #OOOOOfffffffeeeeeeeeeedddddddddddddd
+  #OOOOOfffffffeeeeeeeeeedddddddddddddd
+  #OOOOOfffffffeeeeeeeeeedddddddddddddd
+  fffffffffffffeeeeeeeeeedddddddddddddd
+  fffffffffffffeeeeeeeeeeeMMMMMMccccccc
+  fffffffffffffeeeeeeeeeeeMMMMMMccccccc
+  fffffffffffffeeeeeeeeeeeMMMMMMccccccc
+  ###GGGGGGGfffeeeeeeeeeeeccccccccccccc
+  ###GGGGGGGKKKeeeeeeeeeeeccccccccccccc
+  ###GGGGGGGKKKeeeeeeeeeeeccccccccccccc
+  ###GGGGGGGKKKeeeeeeeeeeeccccccccccccc
+  ###GGGGGGGIIIeeeeeeeeeeeccccccccccccc
+  ###GGGGGGGIIIbbbbbbbbbbbbbbbbbccccccc
+  ###GGGGGGGIIIbbbbbbbbbbbbbbbbbccccccc
+  ###GGGGGGGHHHbbbbbbbbbbbbbbbbbccccccc
+  ##NNNNN***HHHbbbbbbbbbbbbbbbbbccccccc
+  ##NNNNN***HHHbbbbbbbbbbbbbbbbbccccccc
+  ##NNNNN***HHHJJJJbbbbbbbbbbbbbccccccc
+  ##NNNNN######JJJJbbbbbbbbbbbbbccccccc
+  ##NNNNN######JJJJbbbbbbbbbbbbbccccccc
+  #################bbbbbbbbbbbbbccccccc
+
+Final ROOM_2   size: 17x9
+Final ROOM_3   size: 13x17
+Final ROOM_4   size: 17x10
+Final ROOM_5   size: 11x18
+Final ROOM_6   size: 13x14
+Final ROOM_7   size: 7x8
+Final ROOM_8   size: 3x4
+Final ROOM_9   size: 3x3
+Final ROOM_10   size: 4x3
+Final ROOM_11   size: 3x3
+Final ROOM_12   size: 3x3
+Final ROOM_13   size: 6x3
+Final ROOM_14   size: 5x5
+Final ROOM_15   size: 5x3
+
+--==| Connecting Rooms |==--
+
+Teleporter quota: 2
+Big Branch Mode: 99%
+Start room: ROOM_8
+
+--==| Make Quests |==--
+
+Monster max_level: 5.5
+Weapon max level: 5.5
+Zone list:
+  ZONE_1 : rooms:6 head:ROOM_8 solve:KEY(kc_yellow)
+  ZONE_3 : rooms:2 head:ROOM_11 solve:KEY(kc_blue)
+  ZONE_2 : rooms:4 head:ROOM_5 solve:EXIT()
+Exit room: ROOM_14
+Final Battle in ROOM_13
+Facade for ZONE_1 : STARGR2
+Facade for ZONE_3 : STARTAN3
+Facade for ZONE_2 : BROWNGRN
+Weapon quota: 3
+Weapon list:
+   plasma
+   chain
+   launch
+
+--==| Build Rooms |==--
+
+
+--==| Make Battles |==--
+
+
+Giving weapon: chain
+Giving weapon: plasma
+Giving weapon: launch
+DOOM CSG...
+Removed 74287 dead regions (of 110880)
+Swallowed 5164 brushes (of 74328)
+Filled 10 gaps (of 32435 total)
+Lighting level...
+Found 100 light entities, 3928 lit faces, 29903 sky faces
+WARNING: degenerate linedef @ (4992 734)
+WARNING: degenerate linedef @ (4992 542)
+WARNING: degenerate linedef @ (4966 704)
+WARNING: degenerate linedef @ (4992 798)
+WARNING: degenerate linedef @ (4958 1152)
+WARNING: degenerate linedef @ (5005 384)
+WARNING: degenerate linedef @ (5056 290)
+WARNING: degenerate linedef @ (5056 670)
+WARNING: degenerate linedef @ (4833 1189)
+WARNING: degenerate linedef @ (4894 1152)
+WARNING: degenerate linedef @ (5184 862)
+WARNING: degenerate linedef @ (5184 934)
+WARNING: degenerate linedef @ (5018 768)
+WARNING: degenerate linedef @ (5088 293)
+WARNING: degenerate linedef @ (5432 1378)
+WARNING: degenerate linedef @ (5406 1344)
+WARNING: degenerate linedef @ (5407 1572)
+WARNING: degenerate linedef @ (5495 680)
+WARNING: degenerate linedef @ (5548 256)
+WARNING: degenerate linedef @ (5548 256)
+WARNING: degenerate linedef @ (5548 256)
+WARNING: degenerate linedef @ (5568 1570)
+WARNING: degenerate linedef @ (183 3304)
+WARNING: degenerate linedef @ (275 3168)
+WARNING: degenerate linedef @ (109 3040)
+WARNING: degenerate linedef @ (84 3264)
+WARNING: degenerate linedef @ (84 3264)
+WARNING: degenerate linedef @ (84 3264)
+WARNING: degenerate linedef @ (192 2782)
+WARNING: degenerate linedef @ (576 3166)
+WARNING: degenerate linedef @ (339 3296)
+WARNING: degenerate linedef @ (939 3224)
+WARNING: degenerate linedef @ (1088 2910)
+WARNING: degenerate linedef @ (1261 2784)
+WARNING: degenerate linedef @ (1280 3294)
+WARNING: degenerate linedef @ (1244 3488)
+WARNING: degenerate linedef @ (1207 3752)
+WARNING: degenerate linedef @ (2892 1164)
+WARNING: degenerate linedef @ (3051 1112)
+WARNING: degenerate linedef @ (2605 1440)
+WARNING: degenerate linedef @ (2715 1216)
+WARNING: degenerate linedef @ (3117 1504)
+WARNING: degenerate linedef @ (3123 1344)
+WARNING: degenerate linedef @ (3622 1536)
+WARNING: degenerate linedef @ (3872 1572)
+WARNING: degenerate linedef @ (3934 1536)
+WARNING: degenerate linedef @ (4019 320)
+WARNING: degenerate linedef @ (3840 1118)
+WARNING: degenerate linedef @ (3892 972)
+WARNING: degenerate linedef @ (3892 972)
+WARNING: degenerate linedef @ (3892 972)
+WARNING: degenerate linedef @ (4062 704)
+WARNING: degenerate linedef @ (4083 512)
+WARNING: degenerate linedef @ (4126 808)
+WARNING: degenerate linedef @ (4416 1438)
+WARNING: degenerate linedef @ (4275 832)
+WARNING: degenerate linedef @ (4300 1140)
+WARNING: degenerate linedef @ (4312 603)
+WARNING: degenerate linedef @ (4307 608)
+WARNING: degenerate linedef @ (4300 1140)
+WARNING: degenerate linedef @ (4300 1140)
+WARNING: degenerate linedef @ (4307 990)
+WARNING: degenerate linedef @ (4307 990)
+WARNING: degenerate linedef @ (4307 990)
+WARNING: degenerate linedef @ (4574 384)
+WARNING: degenerate linedef @ (4600 418)
+WARNING: degenerate linedef @ (4646 384)
+WARNING: degenerate linedef @ (4512 1013)
+WARNING: degenerate linedef @ (4800 222)
+WARNING: degenerate linedef @ (4791 1064)
+WARNING: degenerate linedef @ (4864 222)
+WARNING: degenerate linedef @ (2112 4894)
+WARNING: degenerate linedef @ (2274 3392)
+WARNING: degenerate linedef @ (2210 3904)
+WARNING: degenerate linedef @ (2189 3904)
+WARNING: degenerate linedef @ (2331 4608)
+WARNING: degenerate linedef @ (2342 5005)
+WARNING: degenerate linedef @ (2402 2880)
+WARNING: degenerate linedef @ (2274 4413)
+WARNING: degenerate linedef @ (2304 5090)
+WARNING: degenerate linedef @ (2586 3653)
+WARNING: degenerate linedef @ (2615 2344)
+WARNING: degenerate linedef @ (2385 3117)
+WARNING: degenerate linedef @ (2402 3648)
+WARNING: degenerate linedef @ (2432 4062)
+WARNING: degenerate linedef @ (2402 4224)
+WARNING: degenerate linedef @ (2402 4992)
+WARNING: degenerate linedef @ (2736 2830)
+WARNING: degenerate linedef @ (2764 2740)
+WARNING: degenerate linedef @ (2718 2752)
+WARNING: degenerate linedef @ (2708 3072)
+WARNING: degenerate linedef @ (2708 3072)
+WARNING: degenerate linedef @ (2708 3072)
+WARNING: degenerate linedef @ (2733 3488)
+WARNING: degenerate linedef @ (2675 3840)
+WARNING: degenerate linedef @ (2654 3840)
+WARNING: degenerate linedef @ (2792 4128)
+WARNING: degenerate linedef @ (2795 4504)
+WARNING: degenerate linedef @ (2880 1886)
+WARNING: degenerate linedef @ (2816 1886)
+WARNING: degenerate linedef @ (2764 2740)
+WARNING: degenerate linedef @ (2782 2752)
+WARNING: degenerate linedef @ (2764 2740)
+WARNING: degenerate linedef @ (2944 2082)
+WARNING: degenerate linedef @ (2914 3584)
+WARNING: degenerate linedef @ (2843 2101)
+WARNING: degenerate linedef @ (2829 3008)
+WARNING: degenerate linedef @ (2880 3554)
+WARNING: degenerate linedef @ (2842 3584)
+WARNING: degenerate linedef @ (2880 3610)
+WARNING: degenerate linedef @ (2978 3904)
+WARNING: degenerate linedef @ (2981 3584)
+WARNING: degenerate linedef @ (2924 4928)
+WARNING: degenerate linedef @ (2924 4928)
+WARNING: degenerate linedef @ (2924 4928)
+WARNING: degenerate linedef @ (2970 2240)
+WARNING: degenerate linedef @ (2995 2112)
+WARNING: degenerate linedef @ (2974 2112)
+WARNING: degenerate linedef @ (1344 4770)
+WARNING: degenerate linedef @ (1344 4698)
+WARNING: degenerate linedef @ (1427 3360)
+WARNING: degenerate linedef @ (1547 5100)
+WARNING: degenerate linedef @ (1555 2784)
+WARNING: degenerate linedef @ (1438 4864)
+WARNING: degenerate linedef @ (1662 3456)
+WARNING: degenerate linedef @ (1632 3683)
+WARNING: degenerate linedef @ (1634 3700)
+WARNING: degenerate linedef @ (1643 4440)
+WARNING: degenerate linedef @ (1644 3008)
+WARNING: degenerate linedef @ (1644 3008)
+WARNING: degenerate linedef @ (1634 3072)
+WARNING: degenerate linedef @ (1644 3008)
+WARNING: degenerate linedef @ (1792 3038)
+WARNING: degenerate linedef @ (1697 3556)
+WARNING: degenerate linedef @ (1695 3620)
+WARNING: degenerate linedef @ (1719 4136)
+WARNING: degenerate linedef @ (1958 3776)
+WARNING: degenerate linedef @ (1894 4416)
+WARNING: degenerate linedef @ (1920 4450)
+WARNING: degenerate linedef @ (2014 3648)
+WARNING: degenerate linedef @ (2035 4416)
+WARNING: degenerate linedef @ (4460 3072)
+WARNING: degenerate linedef @ (4460 3072)
+WARNING: degenerate linedef @ (4460 3072)
+WARNING: degenerate linedef @ (4467 4224)
+WARNING: degenerate linedef @ (4446 4224)
+WARNING: degenerate linedef @ (4461 4704)
+WARNING: degenerate linedef @ (4448 4964)
+WARNING: degenerate linedef @ (4510 4992)
+WARNING: degenerate linedef @ (4384 4260)
+WARNING: degenerate linedef @ (4642 4413)
+WARNING: degenerate linedef @ (4642 4608)
+WARNING: degenerate linedef @ (4621 4608)
+WARNING: degenerate linedef @ (4735 4224)
+WARNING: degenerate linedef @ (4706 4672)
+WARNING: degenerate linedef @ (4706 4608)
+WARNING: degenerate linedef @ (4608 4254)
+WARNING: degenerate linedef @ (4992 4894)
+WARNING: degenerate linedef @ (4992 5026)
+WARNING: degenerate linedef @ (5086 3648)
+WARNING: degenerate linedef @ (4704 5027)
+WARNING: degenerate linedef @ (4770 4672)
+WARNING: degenerate linedef @ (4852 4428)
+WARNING: degenerate linedef @ (5236 4894)
+WARNING: degenerate linedef @ (5568 3554)
+WARNING: degenerate linedef @ (5632 4382)
+WARNING: degenerate linedef @ (5388 4300)
+WARNING: degenerate linedef @ (5952 3476)
+WARNING: degenerate linedef @ (6110 3904)
+WARNING: degenerate linedef @ (6118 3968)
+WARNING: degenerate linedef @ (6110 4032)
+WARNING: degenerate linedef @ (6110 4288)
+WARNING: degenerate linedef @ (5984 4004)
+WARNING: degenerate linedef @ (5990 3904)
+WARNING: degenerate linedef @ (6016 3938)
+WARNING: degenerate linedef @ (5982 3968)
+WARNING: degenerate linedef @ (6046 3456)
+WARNING: degenerate linedef @ (6054 3904)
+WARNING: degenerate linedef @ (6049 3876)
+WARNING: degenerate linedef @ (6054 3968)
+WARNING: degenerate linedef @ (6046 4032)
+WARNING: degenerate linedef @ (6048 4068)
+WARNING: degenerate linedef @ (6092 4345)
+WARNING: degenerate linedef @ (3109 4224)
+WARNING: degenerate linedef @ (3188 1868)
+WARNING: degenerate linedef @ (3102 4800)
+WARNING: degenerate linedef @ (3040 2980)
+WARNING: degenerate linedef @ (3264 4514)
+WARNING: degenerate linedef @ (3264 4578)
+WARNING: degenerate linedef @ (3298 3456)
+WARNING: degenerate linedef @ (3298 4608)
+WARNING: degenerate linedef @ (3187 4800)
+WARNING: degenerate linedef @ (3166 4800)
+WARNING: degenerate linedef @ (3234 2688)
+WARNING: degenerate linedef @ (3422 3264)
+WARNING: degenerate linedef @ (3422 3584)
+WARNING: degenerate linedef @ (3422 3520)
+WARNING: degenerate linedef @ (3424 3556)
+WARNING: degenerate linedef @ (3404 4108)
+WARNING: degenerate linedef @ (3404 3980)
+WARNING: degenerate linedef @ (3328 4830)
+WARNING: degenerate linedef @ (3288 4960)
+WARNING: degenerate linedef @ (3376 3058)
+WARNING: degenerate linedef @ (3362 4608)
+WARNING: degenerate linedef @ (3544 3009)
+WARNING: degenerate linedef @ (3592 4056)
+WARNING: degenerate linedef @ (3488 2972)
+WARNING: degenerate linedef @ (3499 4824)
+WARNING: degenerate linedef @ (3614 4074)
+WARNING: degenerate linedef @ (3673 2724)
+WARNING: degenerate linedef @ (3673 2724)
+WARNING: degenerate linedef @ (3673 2724)
+WARNING: degenerate linedef @ (3584 5026)
+WARNING: degenerate linedef @ (3616 2020)
+WARNING: degenerate linedef @ (3648 3494)
+WARNING: degenerate linedef @ (3804 2036)
+WARNING: degenerate linedef @ (3814 2112)
+WARNING: degenerate linedef @ (3725 4224)
+WARNING: degenerate linedef @ (3840 2654)
+WARNING: degenerate linedef @ (3827 2880)
+WARNING: degenerate linedef @ (3870 2112)
+WARNING: degenerate linedef @ (3661 3264)
+WARNING: degenerate linedef @ (3746 2560)
+WARNING: degenerate linedef @ (4023 3176)
+WARNING: degenerate linedef @ (4032 2974)
+WARNING: degenerate linedef @ (4066 2178)
+WARNING: degenerate linedef @ (4066 2178)
+WARNING: degenerate linedef @ (4066 2178)
+WARNING: degenerate linedef @ (4224 3234)
+WARNING: degenerate linedef @ (4197 3392)
+WARNING: degenerate linedef @ (4194 3392)
+WARNING: degenerate linedef @ (4258 3264)
+WARNING: degenerate linedef @ (4268 3904)
+WARNING: degenerate linedef @ (4268 3904)
+WARNING: degenerate linedef @ (4268 3904)
+WARNING: degenerate linedef @ (4076 3712)
+WARNING: degenerate linedef @ (4076 3712)
+WARNING: degenerate linedef @ (4076 3712)
+WARNING: degenerate linedef @ (6246 4416)
+WARNING: degenerate linedef @ (6323 4416)
+WARNING: degenerate linedef @ (6302 4416)
+WARNING: degenerate linedef @ (6302 4608)
+WARNING: degenerate linedef @ (6432 4964)
+WARNING: degenerate linedef @ (6628 4448)
+WARNING: degenerate linedef @ (6491 4896)
+WARNING: degenerate linedef @ (6552 4763)
+WARNING: degenerate linedef @ (6835 4544)
+WARNING: degenerate linedef @ (6881 3432)
+WARNING: degenerate linedef @ (6899 4672)
+WARNING: degenerate linedef @ (6882 4992)
+WARNING: degenerate linedef @ (6815 3432)
+WARNING: degenerate linedef @ (6818 3840)
+WARNING: degenerate linedef @ (7020 4864)
+WARNING: degenerate linedef @ (7020 4864)
+WARNING: degenerate linedef @ (7020 4864)
+Merged 6976 colinear lines
+Rounded 246 square corners
+Aligned 4592 textures
+
+
+~~~~~~| MAP03 |~~~~~~
+
+Styles = 
+{
+  ambushes = heaps
+  barrels = some
+  beams = some
+  big_juncs = some
+  big_rooms = few
+  cages = some
+  caves = heaps
+  closets = some
+  crates = some
+  crossovers = none
+  cycles = some
+  doors = few
+  ex_floors = some
+  fences = none
+  hallways = few
+  islands = heaps
+  junk = some
+  lakes = few
+  liquids = few
+  lt_spokes = some
+  lt_swapped = none
+  lt_trim = heaps
+  mon_variety = some
+  naturals = none
+  outdoors = heaps
+  pictures = some
+  pillars = few
+  room_shape = none
+  scenics = few
+  secrets = some
+  steepness = some
+  sub_rooms = heaps
+  switches = some
+  symmetry = heaps
+  teleporters = none
+  traps = some
+  windows = few
+}
+
+
+--==| Planning Rooms |==--
+
+Liquid: water (usage 20%)
+
+Map Size: 7x6 sections
+col_W: 3 3 4 4 3 5 7 
+row_H: 4 3 6 5 3 7 
+Seed_init: 35x34  Free: 0x4
+Reserved room quota: 1
+Cave Quota: 4 rooms / 26.3 sections
+
+Room Map:
+  ///KFHJ
+  ///NRLQ
+  /SPNMIO
+  /////GA
+  ///////
+  ///////
+
+Outdoor Quota: 75% (492 seeds)
+Seed Map:
+  ...................................
+  ...................................
+  ...................................
+  ...................................
+  bbbbbbbbbbbbb############JJJJJJJJ##
+  bbbbbbbbbbbbb############JJJJJJJJ##
+  bbbbbbbbbbbbb####FFFHHHHHJJJJJJJJ##
+  bbbbbbbbbbbbbKKKKFFFHHHHHJJJJJJJJ##
+  bbbbbbbbbbbbbKKKKFFFHHHHHJJJJJJJJ##
+  bbbbbbbbbbbbbKKKKFFFHHHHHJJJJJJJJ##
+  bbbbbbbbbbbbbKKKKFFFHHHHHJJJJJJJJ##
+  bbbbbbbbbbbbbNNNNFFFLLLLLJJJJJJJJ##
+  bbbbbbbbbbbbbNNNNRRRLLLLLQQQQQQQ###
+  bbbbbbbbbbbbbNNNNRRRLLLLLQQQQQQQ###
+  bbbbbbbbbbbbbNNNNRRRLLLLLQQQQQQQ###
+  bbbbbbbbbbbbbNNNNRRRLLLLLQQQQQQQ###
+  bbbbbbbbbbbbbNNNNRRRLLLLLQQQQQQQ###
+  bbbbbbbbbbbbbNNNNRRRLLLLLQQQQQQQ###
+  bbbbbbSSSbbbbNNNNRRRIIIIIQQQQQQQ###
+  bbbbbbSSSPPPPNNNNMMMIIIIIOOOOOOOO##
+  bbbbbbSSSPPPPNNNNMMMIIIIIOOOOOOOO##
+  eeeeeeeeePPPPeeeeMMMIIIIIOOOOOOOO##
+  eeeeeeeeeeeeeeeeeMMMIIIIIOOOOOOOO##
+  eeeeeeeeeeeeeeeeeMMMIIIII*******###
+  eeeeeeeeeeeeeeeeecccGGGGG*******###
+  eeeeeeeeeeeeeeeeecccGGGGG*******###
+  eeeeeeeeeeeeeeeeecccGGGGGcccccccccc
+  eeeeeeeeeeeeeeeeecccccccccccccccccc
+  eeeeeedddddddddddcccccccccccccccccc
+  eeeeeedddddddddddcccccccccccccccccc
+  eeeeeedddddddddddcccccccccccccccccc
+  eeeeeedddddddddddcccccccccccccccccc
+  eeeeeedddddddddddcccccccccccccccccc
+  eeeeeedddddddddddcccccccccccccccccc
+  eeeeeedddddddddddcccccccccccccccccc
+  eeeeeedddddddddddcccccccccccccccccc
+  eeeeeedddddddddddcccccccccccccccccc
+  eeeeeedddddddddddcccccccccccccccccc
+
+Final ROOM_2   size: 13x17
+Final ROOM_3   size: 18x14
+Final ROOM_4   size: 11x10
+Final ROOM_5   size: 17x17
+Final ROOM_6   size: 3x6
+Final ROOM_7   size: 5x3
+Final ROOM_8   size: 5x5
+Final ROOM_9   size: 5x6
+Final ROOM_10   size: 8x8
+Final ROOM_11   size: 4x4
+Final ROOM_12   size: 5x7
+Final ROOM_13   size: 3x5
+Final ROOM_14   size: 4x10
+Final ROOM_15   size: 8x4
+Final ROOM_16   size: 4x3
+Final ROOM_17   size: 7x7
+Final ROOM_18   size: 3x7
+Final ROOM_19   size: 3x3
+Final SUB_ROOM_20   size: 2x2
+Final SUB_ROOM_21   size: 4x3
+Final SUB_ROOM_22   size: 2x2
+Final SUB_ROOM_23   size: 2x2
+Final SUB_ROOM_24   size: 2x2
+Final SUB_ROOM_25   size: 3x3
+Final SUB_ROOM_26   size: 2x2
+Final SUB_ROOM_27   size: 2x2
+Final SUB_ROOM_28   size: 3x3
+Final SUB_ROOM_29   size: 2x2
+Final SUB_ROOM_30   size: 2x2
+Final SUB_ROOM_31   size: 2x2
+Final SUB_ROOM_32   size: 2x2
+Final SUB_ROOM_33   size: 2x2
+
+--==| Connecting Rooms |==--
+
+Teleporter quota: NONE
+Big Branch Mode: 50%
+Start room: ROOM_15
+
+--==| Make Quests |==--
+
+Monster max_level: 7.8
+Weapon max level: 7.8
+Zone list:
+  ZONE_1 : rooms:6 head:ROOM_15 solve:SWITCH(sw_hot)
+  ZONE_5 : rooms:7 head:SUB_ROOM_31 solve:KEY(kc_red)
+  ZONE_4 : rooms:9 head:ROOM_8 solve:KEY(kc_yellow)
+  ZONE_3 : rooms:6 head:ROOM_2 solve:KEY(kc_blue)
+  ZONE_2 : rooms:4 head:ROOM_5 solve:EXIT()
+Exit room: ROOM_7
+Final Battle in ROOM_3
+Facade for ZONE_1 : STARBR2
+Facade for ZONE_5 : STARG3
+Facade for ZONE_4 : BROWNGRN
+Facade for ZONE_3 : BROWN1
+Facade for ZONE_2 : STARGR2
+Weapon quota: 6
+Weapon list:
+   shotty
+   chain
+   plasma
+   super
+   launch
+   bfg
+
+--==| Build Rooms |==--
+
+
+--==| Make Battles |==--
+
+
+Giving weapon: shotty
+Giving weapon: chain
+Giving weapon: plasma
+Giving weapon: super
+Giving weapon: launch
+Giving weapon: bfg
+Cannot place guard monster: Mastermind
+Unable to place items: rocket_box x 1
+Unable to place items: cell_pack x 1
+Unable to place items: rocket_box x 1
+Unable to place items: stimpack x 5
+Unable to place items: rocket x 5
+Unable to place items: stimpack x 4
+DOOM CSG...
+Removed 97500 dead regions (of 144998)
+Swallowed 5808 brushes (of 97597)
+Filled 12 gaps (of 44007 total)
+Lighting level...
+Found 277 light entities, 7766 lit faces, 37623 sky faces
+WARNING: degenerate linedef @ (951 3944)
+WARNING: degenerate linedef @ (960 4962)
+WARNING: degenerate linedef @ (896 6110)
+WARNING: degenerate linedef @ (872 6432)
+WARNING: degenerate linedef @ (1024 6050)
+WARNING: degenerate linedef @ (1054 4532)
+WARNING: degenerate linedef @ (1007 4532)
+WARNING: degenerate linedef @ (973 3648)
+WARNING: degenerate linedef @ (995 4592)
+WARNING: degenerate linedef @ (1216 4766)
+WARNING: degenerate linedef @ (1054 4992)
+WARNING: degenerate linedef @ (1250 5184)
+WARNING: degenerate linedef @ (1248 6236)
+WARNING: degenerate linedef @ (1248 4468)
+WARNING: degenerate linedef @ (1324 4928)
+WARNING: degenerate linedef @ (1324 4928)
+WARNING: degenerate linedef @ (1324 4928)
+WARNING: degenerate linedef @ (1510 5504)
+WARNING: degenerate linedef @ (1510 5504)
+WARNING: degenerate linedef @ (1510 5504)
+WARNING: degenerate linedef @ (1523 4672)
+WARNING: degenerate linedef @ (1630 5568)
+WARNING: degenerate linedef @ (1684 4032)
+WARNING: degenerate linedef @ (1684 4032)
+WARNING: degenerate linedef @ (1684 4032)
+WARNING: degenerate linedef @ (1698 4672)
+WARNING: degenerate linedef @ (1664 4958)
+WARNING: degenerate linedef @ (1626 5184)
+WARNING: degenerate linedef @ (1728 5278)
+WARNING: degenerate linedef @ (109 4960)
+WARNING: degenerate linedef @ (218 5312)
+WARNING: degenerate linedef @ (223 5284)
+WARNING: degenerate linedef @ (226 5888)
+WARNING: degenerate linedef @ (230 4600)
+WARNING: degenerate linedef @ (269 4096)
+WARNING: degenerate linedef @ (286 4608)
+WARNING: degenerate linedef @ (358 6016)
+WARNING: degenerate linedef @ (567 4072)
+WARNING: degenerate linedef @ (674 3584)
+WARNING: degenerate linedef @ (621 4064)
+WARNING: degenerate linedef @ (768 4638)
+WARNING: degenerate linedef @ (768 3490)
+WARNING: degenerate linedef @ (832 6046)
+WARNING: degenerate linedef @ (859 3508)
+WARNING: degenerate linedef @ (223 2733)
+WARNING: degenerate linedef @ (371 1728)
+WARNING: degenerate linedef @ (363 1816)
+WARNING: degenerate linedef @ (350 2880)
+WARNING: degenerate linedef @ (294 2872)
+WARNING: degenerate linedef @ (350 192)
+WARNING: degenerate linedef @ (384 478)
+WARNING: degenerate linedef @ (512 542)
+WARNING: degenerate linedef @ (468 2624)
+WARNING: degenerate linedef @ (468 2624)
+WARNING: degenerate linedef @ (468 2624)
+WARNING: degenerate linedef @ (478 2688)
+WARNING: degenerate linedef @ (555 1112)
+WARNING: degenerate linedef @ (602 576)
+WARNING: degenerate linedef @ (582 480)
+WARNING: degenerate linedef @ (541 2720)
+WARNING: degenerate linedef @ (567 2984)
+WARNING: degenerate linedef @ (704 2526)
+WARNING: degenerate linedef @ (640 2462)
+WARNING: degenerate linedef @ (738 2752)
+WARNING: degenerate linedef @ (768 3170)
+WARNING: degenerate linedef @ (768 94)
+WARNING: degenerate linedef @ (866 384)
+WARNING: degenerate linedef @ (870 1464)
+WARNING: degenerate linedef @ (781 768)
+WARNING: degenerate linedef @ (787 864)
+WARNING: degenerate linedef @ (1869 4608)
+WARNING: degenerate linedef @ (1952 6236)
+WARNING: degenerate linedef @ (2035 5888)
+WARNING: degenerate linedef @ (1940 4992)
+WARNING: degenerate linedef @ (1940 4992)
+WARNING: degenerate linedef @ (1940 4992)
+WARNING: degenerate linedef @ (1963 5208)
+WARNING: degenerate linedef @ (2048 6302)
+WARNING: degenerate linedef @ (2112 3806)
+WARNING: degenerate linedef @ (2272 3933)
+WARNING: degenerate linedef @ (2291 5312)
+WARNING: degenerate linedef @ (2227 4096)
+WARNING: degenerate linedef @ (2348 5888)
+WARNING: degenerate linedef @ (2348 5888)
+WARNING: degenerate linedef @ (2317 5952)
+WARNING: degenerate linedef @ (2348 5888)
+WARNING: degenerate linedef @ (2348 4096)
+WARNING: degenerate linedef @ (2348 4096)
+WARNING: degenerate linedef @ (2348 4096)
+WARNING: degenerate linedef @ (2445 4800)
+WARNING: degenerate linedef @ (104 2101)
+WARNING: degenerate linedef @ (94 2304)
+WARNING: degenerate linedef @ (119 232)
+WARNING: degenerate linedef @ (94 1536)
+WARNING: degenerate linedef @ (256 94)
+WARNING: degenerate linedef @ (192 1630)
+WARNING: degenerate linedef @ (192 1886)
+WARNING: degenerate linedef @ (2688 2334)
+WARNING: degenerate linedef @ (2880 2914)
+WARNING: degenerate linedef @ (2641 3053)
+WARNING: degenerate linedef @ (1331 640)
+WARNING: degenerate linedef @ (3136 2142)
+WARNING: degenerate linedef @ (3194 2592)
+WARNING: degenerate linedef @ (1438 1600)
+WARNING: degenerate linedef @ (1453 1440)
+WARNING: degenerate linedef @ (1536 1126)
+WARNING: degenerate linedef @ (1536 1182)
+WARNING: degenerate linedef @ (1485 768)
+WARNING: degenerate linedef @ (1344 1698)
+WARNING: degenerate linedef @ (1374 1408)
+WARNING: degenerate linedef @ (1370 1477)
+WARNING: degenerate linedef @ (1632 1308)
+WARNING: degenerate linedef @ (1632 1372)
+WARNING: degenerate linedef @ (1664 1698)
+WARNING: degenerate linedef @ (1664 1570)
+WARNING: degenerate linedef @ (1664 1634)
+WARNING: degenerate linedef @ (1695 104)
+WARNING: degenerate linedef @ (1696 168)
+WARNING: degenerate linedef @ (1728 1310)
+WARNING: degenerate linedef @ (1728 1382)
+WARNING: degenerate linedef @ (1698 1728)
+WARNING: degenerate linedef @ (1536 1246)
+WARNING: degenerate linedef @ (1536 1310)
+WARNING: degenerate linedef @ (1600 1318)
+WARNING: degenerate linedef @ (1568 1373)
+WARNING: degenerate linedef @ (1576 1214)
+WARNING: degenerate linedef @ (1600 1634)
+WARNING: degenerate linedef @ (1655 296)
+WARNING: degenerate linedef @ (1920 222)
+WARNING: degenerate linedef @ (1946 192)
+WARNING: degenerate linedef @ (926 1472)
+WARNING: degenerate linedef @ (887 2920)
+WARNING: degenerate linedef @ (1058 1408)
+WARNING: degenerate linedef @ (1058 1600)
+WARNING: degenerate linedef @ (1105 1965)
+WARNING: degenerate linedef @ (1361 3053)
+WARNING: degenerate linedef @ (1694 2496)
+WARNING: degenerate linedef @ (1491 2592)
+WARNING: degenerate linedef @ (1506 2496)
+WARNING: degenerate linedef @ (1536 2466)
+WARNING: degenerate linedef @ (1485 2496)
+WARNING: degenerate linedef @ (1536 2850)
+WARNING: degenerate linedef @ (1506 2880)
+WARNING: degenerate linedef @ (1623 2880)
+WARNING: degenerate linedef @ (1600 3166)
+WARNING: degenerate linedef @ (1920 2206)
+WARNING: degenerate linedef @ (1747 2976)
+WARNING: degenerate linedef @ (1945 2593)
+WARNING: degenerate linedef @ (2048 2014)
+WARNING: degenerate linedef @ (3648 2010)
+WARNING: degenerate linedef @ (3683 1952)
+WARNING: degenerate linedef @ (4224 482)
+WARNING: degenerate linedef @ (4382 384)
+WARNING: degenerate linedef @ (4258 1920)
+WARNING: degenerate linedef @ (5120 1442)
+WARNING: degenerate linedef @ (2078 960)
+WARNING: degenerate linedef @ (2167 488)
+WARNING: degenerate linedef @ (2138 1216)
+WARNING: degenerate linedef @ (2035 640)
+WARNING: degenerate linedef @ (2053 1370)
+WARNING: degenerate linedef @ (2099 576)
+WARNING: degenerate linedef @ (2304 286)
+WARNING: degenerate linedef @ (2304 1634)
+WARNING: degenerate linedef @ (2142 1728)
+WARNING: degenerate linedef @ (2219 1304)
+WARNING: degenerate linedef @ (2387 928)
+WARNING: degenerate linedef @ (2432 990)
+WARNING: degenerate linedef @ (2658 1344)
+WARNING: degenerate linedef @ (2624 1314)
+WARNING: degenerate linedef @ (2594 1344)
+WARNING: degenerate linedef @ (2573 1344)
+WARNING: degenerate linedef @ (2624 1378)
+WARNING: degenerate linedef @ (2656 1000)
+WARNING: degenerate linedef @ (2999 1448)
+WARNING: degenerate linedef @ (2906 768)
+WARNING: degenerate linedef @ (2912 1356)
+WARNING: degenerate linedef @ (3042 960)
+WARNING: degenerate linedef @ (3021 960)
+WARNING: degenerate linedef @ (3520 2266)
+WARNING: degenerate linedef @ (3565 1568)
+WARNING: degenerate linedef @ (3575 1448)
+WARNING: degenerate linedef @ (6572 1472)
+WARNING: degenerate linedef @ (6572 1472)
+WARNING: degenerate linedef @ (6572 1472)
+WARNING: degenerate linedef @ (3309 352)
+WARNING: degenerate linedef @ (5346 1664)
+WARNING: degenerate linedef @ (5440 290)
+WARNING: degenerate linedef @ (5568 866)
+WARNING: degenerate linedef @ (5549 1568)
+WARNING: degenerate linedef @ (5456 943)
+WARNING: degenerate linedef @ (5683 1728)
+WARNING: degenerate linedef @ (5804 1728)
+WARNING: degenerate linedef @ (5804 1728)
+WARNING: degenerate linedef @ (5804 1728)
+WARNING: degenerate linedef @ (5725 432)
+WARNING: degenerate linedef @ (5747 960)
+WARNING: degenerate linedef @ (5760 1374)
+WARNING: degenerate linedef @ (5715 1952)
+WARNING: degenerate linedef @ (5952 862)
+WARNING: degenerate linedef @ (5853 176)
+WARNING: degenerate linedef @ (5888 1058)
+WARNING: degenerate linedef @ (6263 808)
+WARNING: degenerate linedef @ (6438 1280)
+WARNING: degenerate linedef @ (6494 384)
+WARNING: degenerate linedef @ (6483 800)
+WARNING: degenerate linedef @ (6400 1054)
+WARNING: degenerate linedef @ (6381 1824)
+Merged 9827 colinear lines
+Rounded 514 square corners
+Aligned 5405 textures
+
+
+~~~~~~| MAP04 |~~~~~~
+
+Styles = 
+{
+  ambushes = none
+  barrels = few
+  beams = few
+  big_juncs = none
+  big_rooms = few
+  cages = none
+  caves = heaps
+  closets = few
+  crates = some
+  crossovers = none
+  cycles = heaps
+  doors = some
+  ex_floors = few
+  fences = none
+  hallways = some
+  islands = few
+  junk = heaps
+  lakes = few
+  liquids = few
+  lt_spokes = some
+  lt_swapped = heaps
+  lt_trim = none
+  mon_variety = some
+  outdoors = heaps
+  pictures = some
+  pillars = some
+  room_shape = none
+  scenics = few
+  secrets = some
+  steepness = few
+  sub_rooms = none
+  switches = some
+  symmetry = some
+  teleporters = none
+  traps = some
+  windows = heaps
+}
+
+
+--==| Planning Rooms |==--
+
+Liquid: blood (usage 20%)
+
+Map Size: 7x6 sections
+col_W: 3 3 3 4 3 4 5 
+row_H: 3 3 3 4 4 3 
+Seed_init: 31x26  Free: 0x4
+Reserved room quota: 1
+Cave Quota: 7 rooms / 33.4 sections
+
+Room Map:
+  /IJ//NL
+  //////K
+  M/////P
+  /////AO
+  ///////
+  ///////
+
+Outdoor Quota: 75% (308 seeds)
+Seed Map:
+  ...............................
+  ...............................
+  ...............................
+  ...............................
+  hhhhhh######ccccccccc##########
+  hhhhhh######ccccccccc##########
+  hhhhhhIIIJJJccccccccc##########
+  hhhhhhIIIJJJcccccccccNNNNLLL###
+  hhhhhhIIIJJJcccccccccNNNNLLL###
+  hhhhhhhhhhhhcccccccccNNNNLLL###
+  hhhhhhhhhhhhcccccccccccKKKKKK##
+  hhhhhhhhhhhhcccccccccccKKKKKK##
+  hhhhhhhhhhhhcccccccccccKKKKKK##
+  hhhhhhhhhhhhcccccccccccPPPPPPPP
+  hhhhhhggggggggggcccccccPPPPPPPP
+  #MMMMMggggggggggcccccccPPPPPPPP
+  #MMMMMggggggggggcccccccOOOOOO##
+  #MMMMMggggggggggcccccccOOOOOO##
+  ffffffffffffgggggggg***OOOOOO##
+  ffffffffffffgggggggg***bbbbbbbb
+  ffffffffffffgggggggg***bbbbbbbb
+  ddddddffffffeeeeeeebbbbbbbbbbbb
+  ddddddffffffeeeeeeebbbbbbbbbbbb
+  ddddddffffffeeeeeeebbbbbbbbbbbb
+  dddddddddfffeeeeeeebbbbbbbbbbbb
+  dddddddddfffeeeeeeebbbbbbbbbbbb
+  dddddddddfffeeeeeeebbbbbbbbbbbb
+  dddddddddfffeeeeeeebbbbbbbbbbbb
+  dddddddddfffeeeeeeebbbbbbbbbbbb
+  dddddddddfffeeeeeeebbbbbbbbbbbb
+
+Final ROOM_2   size: 12x11
+Final ROOM_3   size: 11x14
+Final ROOM_4   size: 9x9
+Final ROOM_5   size: 7x9
+Final ROOM_6   size: 12x12
+Final ROOM_7   size: 14x7
+Final ROOM_8   size: 12x11
+Final ROOM_9   size: 3x3
+Final ROOM_10   size: 3x3
+Final ROOM_11   size: 6x3
+Final ROOM_12   size: 3x3
+Final ROOM_13   size: 5x3
+Final ROOM_14   size: 4x3
+Final ROOM_15   size: 6x3
+Final ROOM_16   size: 8x3
+
+--==| Connecting Rooms |==--
+
+Teleporter quota: NONE
+Big Branch Mode: 99%
+Start room: ROOM_15
+
+--==| Make Quests |==--
+
+Monster max_level: 10.0
+Weapon max level: 10.0
+Zone list:
+  ZONE_1 : rooms:5 head:ROOM_15 solve:KEY(kc_blue)
+  ZONE_3 : rooms:4 head:ROOM_16 solve:KEY(kc_yellow)
+  ZONE_2 : rooms:6 head:ROOM_8 solve:EXIT()
+Exit room: ROOM_4
+Final Battle in ROOM_6
+Facade for ZONE_1 : BLAKWAL2
+Facade for ZONE_3 : CEMENT9
+Facade for ZONE_2 : BIGBRIK1
+Weapon quota: 4
+Weapon list:
+   shotty
+   berserk
+   launch
+   bfg
+
+--==| Build Rooms |==--
+
+
+--==| Make Battles |==--
+
+
+Giving weapon: shotty
+Giving weapon: berserk
+Cannot place guard monster: Mastermind
+Giving weapon: bfg
+Giving weapon: launch
+DOOM CSG...
+Removed 60812 dead regions (of 91234)
+Swallowed 3256 brushes (of 60884)
+Filled 8 gaps (of 27075 total)
+Lighting level...
+Found 92 light entities, 6690 lit faces, 24403 sky faces
+WARNING: degenerate linedef @ (653 960)
+WARNING: degenerate linedef @ (525 1024)
+WARNING: degenerate linedef @ (179 320)
+WARNING: degenerate linedef @ (1523 2752)
+WARNING: degenerate linedef @ (4268 3456)
+WARNING: degenerate linedef @ (4268 3456)
+WARNING: degenerate linedef @ (4268 3456)
+WARNING: degenerate linedef @ (4062 3264)
+WARNING: degenerate linedef @ (3767 488)
+WARNING: degenerate linedef @ (3742 960)
+WARNING: degenerate linedef @ (3840 222)
+WARNING: degenerate linedef @ (3692 885)
+WARNING: degenerate linedef @ (3968 670)
+WARNING: degenerate linedef @ (3840 862)
+WARNING: degenerate linedef @ (3795 1344)
+WARNING: degenerate linedef @ (4032 1634)
+WARNING: degenerate linedef @ (4059 192)
+WARNING: degenerate linedef @ (4096 1442)
+WARNING: degenerate linedef @ (4032 158)
+WARNING: degenerate linedef @ (4032 222)
+WARNING: degenerate linedef @ (4224 930)
+WARNING: degenerate linedef @ (4194 960)
+WARNING: degenerate linedef @ (4395 88)
+WARNING: degenerate linedef @ (4403 960)
+WARNING: degenerate linedef @ (4318 320)
+WARNING: degenerate linedef @ (4343 488)
+WARNING: degenerate linedef @ (4333 608)
+WARNING: degenerate linedef @ (4544 866)
+WARNING: degenerate linedef @ (4480 930)
+WARNING: degenerate linedef @ (4467 1280)
+WARNING: degenerate linedef @ (4446 1280)
+WARNING: degenerate linedef @ (4672 738)
+WARNING: degenerate linedef @ (4642 768)
+WARNING: degenerate linedef @ (4510 1728)
+WARNING: degenerate linedef @ (4608 94)
+WARNING: degenerate linedef @ (4587 1624)
+WARNING: degenerate linedef @ (2462 4608)
+WARNING: degenerate linedef @ (2423 4264)
+WARNING: degenerate linedef @ (2496 4382)
+WARNING: degenerate linedef @ (2590 3840)
+WARNING: degenerate linedef @ (2816 3810)
+WARNING: degenerate linedef @ (2849 4128)
+WARNING: degenerate linedef @ (3156 2944)
+WARNING: degenerate linedef @ (3156 2944)
+WARNING: degenerate linedef @ (3156 2944)
+WARNING: degenerate linedef @ (3251 2624)
+WARNING: degenerate linedef @ (2974 4416)
+WARNING: degenerate linedef @ (3520 3042)
+WARNING: degenerate linedef @ (3277 3136)
+WARNING: degenerate linedef @ (3309 4320)
+WARNING: degenerate linedef @ (3742 3904)
+WARNING: degenerate linedef @ (3820 2688)
+WARNING: degenerate linedef @ (3820 2688)
+WARNING: degenerate linedef @ (3820 2688)
+WARNING: degenerate linedef @ (3988 3456)
+WARNING: degenerate linedef @ (3988 3456)
+WARNING: degenerate linedef @ (3988 3456)
+WARNING: degenerate linedef @ (3789 4032)
+WARNING: degenerate linedef @ (5760 1698)
+WARNING: degenerate linedef @ (5858 1728)
+WARNING: degenerate linedef @ (5831 1372)
+WARNING: degenerate linedef @ (5794 1728)
+WARNING: degenerate linedef @ (192 4382)
+WARNING: degenerate linedef @ (148 4800)
+WARNING: degenerate linedef @ (148 4800)
+WARNING: degenerate linedef @ (148 4800)
+WARNING: degenerate linedef @ (171 2968)
+WARNING: degenerate linedef @ (243 3776)
+WARNING: degenerate linedef @ (222 3776)
+WARNING: degenerate linedef @ (275 3104)
+WARNING: degenerate linedef @ (435 4032)
+WARNING: degenerate linedef @ (371 4480)
+WARNING: degenerate linedef @ (542 4608)
+WARNING: degenerate linedef @ (576 4898)
+WARNING: degenerate linedef @ (576 3166)
+WARNING: degenerate linedef @ (606 4672)
+WARNING: degenerate linedef @ (4781 864)
+WARNING: degenerate linedef @ (4659 1792)
+WARNING: degenerate linedef @ (4695 800)
+WARNING: degenerate linedef @ (4864 222)
+WARNING: degenerate linedef @ (5056 222)
+WARNING: degenerate linedef @ (5184 94)
+WARNING: degenerate linedef @ (5632 1570)
+WARNING: degenerate linedef @ (5632 674)
+WARNING: degenerate linedef @ (5602 1149)
+WARNING: degenerate linedef @ (1372 1568)
+WARNING: degenerate linedef @ (1448 1397)
+WARNING: degenerate linedef @ (1448 1472)
+WARNING: degenerate linedef @ (1451 1368)
+WARNING: degenerate linedef @ (1771 1368)
+WARNING: degenerate linedef @ (1783 1192)
+WARNING: degenerate linedef @ (1643 2072)
+WARNING: degenerate linedef @ (1920 1374)
+WARNING: degenerate linedef @ (1856 1118)
+WARNING: degenerate linedef @ (2018 192)
+WARNING: degenerate linedef @ (2035 640)
+WARNING: degenerate linedef @ (1869 2048)
+WARNING: degenerate linedef @ (1984 666)
+WARNING: degenerate linedef @ (2078 1344)
+WARNING: degenerate linedef @ (2112 1250)
+WARNING: degenerate linedef @ (2210 960)
+WARNING: degenerate linedef @ (2210 1536)
+WARNING: degenerate linedef @ (768 4706)
+WARNING: degenerate linedef @ (960 4898)
+WARNING: degenerate linedef @ (849 4013)
+WARNING: degenerate linedef @ (845 4416)
+WARNING: degenerate linedef @ (866 4416)
+WARNING: degenerate linedef @ (1076 4642)
+WARNING: degenerate linedef @ (1024 3810)
+WARNING: degenerate linedef @ (1216 3362)
+WARNING: degenerate linedef @ (1216 3682)
+WARNING: degenerate linedef @ (1574 3448)
+WARNING: degenerate linedef @ (1591 3304)
+WARNING: degenerate linedef @ (1630 3456)
+WARNING: degenerate linedef @ (1843 3584)
+WARNING: degenerate linedef @ (1920 3422)
+WARNING: degenerate linedef @ (1873 3373)
+WARNING: degenerate linedef @ (1873 3885)
+WARNING: degenerate linedef @ (1752 3904)
+WARNING: degenerate linedef @ (2210 3776)
+WARNING: degenerate linedef @ (2195 3872)
+WARNING: degenerate linedef @ (1952 3485)
+WARNING: degenerate linedef @ (2005 3487)
+WARNING: degenerate linedef @ (290 2112)
+WARNING: degenerate linedef @ (269 2112)
+WARNING: degenerate linedef @ (273 2221)
+WARNING: degenerate linedef @ (354 1920)
+WARNING: degenerate linedef @ (333 1920)
+WARNING: degenerate linedef @ (94 2112)
+WARNING: degenerate linedef @ (158 2112)
+WARNING: degenerate linedef @ (3533 896)
+WARNING: degenerate linedef @ (4365 2880)
+WARNING: degenerate linedef @ (2419 448)
+WARNING: degenerate linedef @ (2643 416)
+WARNING: degenerate linedef @ (2659 1330)
+WARNING: degenerate linedef @ (2925 992)
+WARNING: degenerate linedef @ (2918 1528)
+WARNING: degenerate linedef @ (2974 1536)
+WARNING: degenerate linedef @ (3302 760)
+WARNING: degenerate linedef @ (3298 1152)
+WARNING: degenerate linedef @ (3277 1152)
+WARNING: degenerate linedef @ (3379 384)
+WARNING: degenerate linedef @ (3373 544)
+WARNING: degenerate linedef @ (3358 768)
+WARNING: degenerate linedef @ (3366 824)
+WARNING: degenerate linedef @ (3238 384)
+WARNING: degenerate linedef @ (3422 832)
+Merged 4888 colinear lines
+Rounded 334 square corners
+Aligned 3442 textures
+Merging WAD sections from: doom_falls.wad
+Opened WAD file: C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/data/doom_falls.wad
+Closed WAD file
+Merging WAD sections from: metal_step.wad
+Opened WAD file: C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/data/metal_step.wad
+Closed WAD file
+Merging WAD sections from: vine_dude.wad
+Opened WAD file: C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/data/vine_dude.wad
+Closed WAD file
+Merging WAD sections from: logos.wad
+Opened WAD file: C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/data/logos.wad
+Closed WAD file
+
+~~~~~~ Finished Making Levels ~~~~~~
+
+Writing WAD directory
+Closed WAD file
+
+GLBSP: Opened PWAD file : C:\Users\Don\Desktop\DOOM\wads\generated\1.tmp
+GLBSP: 
+GLBSP: Building normal and GL nodes on MAP01
+GLBSP: Building normal and GL nodes on MAP02
+GLBSP: Building normal and GL nodes on MAP03
+GLBSP: Building normal and GL nodes on MAP04
+GLBSP: 
+GLBSP: Saving WAD as C:\Users\Don\Desktop\DOOM\wads\generated\1.wad
+GLBSP: 
+GLBSP: Total serious warnings: 0
+GLBSP: Total minor warnings: 2
+GLBSP: 
+GLBSP: *** Problem Report ***
+
+GLBSP: POTENTIAL FAILURES.  The following levels should work in a
+modern Doom port, but may fail (or even crash) in older ports.
+
+GLBSP: MAP03   : GLBSP: Number of GL segs overflowed the original limit.
+GLBSP: 
+End of problem report.
+Saving Options...
+DONE.
+
+
+TOTAL TIME: 28.47 seconds
+
+Saving Config...
+DONE.
+
+Created WAD file: C:\Users\Don\Desktop\DOOM\wads\generated\medium urban.wad
+
+
+~~~~~~~ Making Levels ~~~~~~~
+
+game = doom2
+mode = sp
+engine = gzdoom
+length = single
+seed = 1473820189
+
+theme = urban
+size = regular
+outdoors = none
+caves = rare
+
+mons = normal
+strength = medium
+weapons = normal
+powers = normal
+health = normal
+ammo = normal
+
+---- Modules ----
+
+@doom_mon_control = 0
+
+caco = default
+gunner = default
+Mastermind = default
+skull = default
+demon = default
+knight = default
+ss_dude = default
+vile = default
+zombie = default
+Cyberdemon = default
+baron = default
+spectre = default
+arach = default
+mancubus = default
+revenant = default
+pain = default
+imp = default
+shooter = default
+
+@doom_weapon_control = 0
+
+super = default
+saw = default
+chain = default
+plasma = default
+launch = default
+bfg = default
+berserk = default
+shotty = default
+
+@export_map = 0
+
+@gameplay_tweaks = 0
+
+quiet_start = no
+keep_weapons = no
+start_together = no
+
+@heretic_mon_control = 0
+
+mummy = default
+Maulotaur = default
+sabreclaw = default
+gargoyle = default
+leader = default
+weredragon = default
+fire_garg = default
+ohpibian = default
+D_Sparil = default
+Ironlich = default
+knight = default
+disciple = default
+
+@heretic_weapon_control = 0
+
+crossbow = default
+gauntlets = default
+hellstaff = default
+claw = default
+firemace = default
+phoenix = default
+
+@imm_conduct = 0
+
+helper = mixed
+new_mons = scarce
+
+@level_control = 0
+
+secrets = mixed
+big_rooms = mixed
+doors = mixed
+hallways = mixed
+ex_floors = mixed
+darkness = mixed
+windows = mixed
+switches = mixed
+steepness = mixed
+pillars = mixed
+sub_rooms = mixed
+teleporters = mixed
+crates = mixed
+lakes = mixed
+traps = mixed
+symmetry = mixed
+cages = mixed
+scenics = mixed
+pictures = mixed
+mon_variety = mixed
+liquids = mixed
+
+@music_swapper = 0
+
+@no_prebuilt_doom = 0
+
+@quake2_mon_control = 0
+
+Huge_flyer = default
+parasite = default
+beserker = default
+brain = default
+enforcer = default
+grenader = default
+medic = default
+guard = default
+guard_mg = default
+Super_tank = default
+tank_cmdr = default
+flyer = default
+shark = default
+tank = default
+gladiator = default
+maiden = default
+mutant = default
+icarus = default
+guard_sg = default
+technician = default
+
+@quake2_weapon_control = 0
+
+rocket = default
+rail = default
+machine = default
+shotty = default
+chain = default
+ssg = default
+bfg = default
+hyper = default
+grenade = default
+
+@quake_mon_control = 0
+
+grunt = default
+fiend = default
+death_kt = default
+ogre = default
+enforcer = default
+fish = default
+dog = default
+knight = default
+tarbaby = default
+shambler = default
+vore = default
+scrag = default
+zombie = default
+
+@quake_weapon_control = 0
+
+rocket = default
+nailgun = default
+ssg = default
+nailgun2 = default
+zapper = default
+grenade = default
+
+@sktag_mon_control = 0
+
+cacolant = default
+superguy = default
+darkimp = default
+bldemon = default
+abaddon = default
+belphegor = default
+hectebus = default
+
+@sktag_mons = 0
+
+def_mon = some
+def_weap = some
+
+@sktag_weap_control = 0
+
+bfg10k = default
+minigun = default
+glaunch = default
+railgun = default
+
+@sky_generator = 0
+
+@stealth_mon_control = 0
+
+stealth_demon = default
+stealth_baron = default
+stealth_zombie = default
+stealth_caco = default
+stealth_imp = default
+stealth_mancubus = default
+stealth_arach = default
+stealth_revenant = default
+stealth_shooter = default
+stealth_vile = default
+stealth_knight = default
+stealth_gunner = default
+
+@stealth_mons = 0
+
+qty = normal
+
+@theme_ctl_doom1 = 0
+
+episode4 = no_change
+episode3 = no_change
+secret = no_change
+episode2 = no_change
+episode1 = no_change
+
+@theme_ctl_doom2 = 0
+
+secret = no_change
+episode2 = no_change
+episode3 = no_change
+episode1 = no_change
+
+@zdoom_marine_control = 0
+
+marine_bfg = default
+marine_chain = default
+marine_pistol = default
+marine_ssg = default
+marine_rail = default
+marine_berserk = default
+marine_plasma = default
+marine_rocket = default
+marine_fist = default
+marine_saw = default
+marine_shotty = default
+
+@zdoom_marines = 0
+
+qty = plenty
+
+-- END --
+
+Theme for level MAP01 = urban
+
+Special levels:
+  none
+
+
+~~~~~~| MAP01 |~~~~~~
+
+Styles = 
+{
+  ambushes = some
+  barrels = some
+  beams = few
+  big_juncs = none
+  big_rooms = none
+  cages = some
+  caves = rare
+  closets = some
+  crates = some
+  crossovers = none
+  cycles = some
+  doors = few
+  ex_floors = heaps
+  fences = few
+  hallways = few
+  islands = heaps
+  junk = heaps
+  lakes = few
+  liquids = some
+  lt_spokes = none
+  lt_swapped = heaps
+  lt_trim = none
+  mon_variety = some
+  outdoors = none
+  pictures = some
+  pillars = some
+  room_shape = none
+  scenics = some
+  secrets = some
+  steepness = some
+  sub_rooms = none
+  switches = some
+  symmetry = few
+  teleporters = none
+  traps = some
+  windows = some
+}
+
+
+--==| Planning Rooms |==--
+
+Liquid: water (usage 40%)
+
+Map Size: 5x4 sections
+col_W: 4 4 3 7 4 
+row_H: 3 3 3 6 
+Seed_init: 28x21  Free: 0x4
+Reserved room quota: 1
+Cave Quota: 2 rooms / 11.2 sections
+
+Room Map:
+  HEJ//
+  I////
+  KF///
+  DAG//
+
+Outdoors: NONE
+Seed Map:
+  ............................
+  ............................
+  ............................
+  ............................
+  ##############bbbbbbbccccccc
+  ##HHHHH#######bbbbbbbccccccc
+  ##HHHHHEEEEJJJbbbbbbbccccccc
+  ##HHHHHEEEEJJJbbbbbbbccccccc
+  ##HHHHHEEEEJJJbbbbbbbccccccc
+  ##HHHHHbbbbJJJbbbbbbbccccccc
+  ##HHHHHbbbbbbbbbbbbbbccccccc
+  ##HHHHHbbbbbbbbbbbbbbccccccc
+  ##IIIIIbbbbbbbbbbbbbbccccccc
+  ##IIIIIbbbbbbbbbbbbbbccccccc
+  ##IIIIIbbbbbbbbbbbbbbccccccc
+  #KKKKKKbbbbbbbbbbbbbbccccccc
+  #KKKKKKFFFFbbbbbbbbbbccccccc
+  #KKKKKKFFFFbbbbbbbbbbccccccc
+  #KKKKKKFFFFbbbbbbbbbbccccccc
+  #KKKKKK****bbbbbbbbbbccccccc
+  #KKKKKK****bbbbbbbbbbccccccc
+  #KKKKKK****GGGbbbbbbbccccccc
+  #DDDDDD####GGGbbbbbbbccccccc
+  #DDDDDD####GGGbbbbbbbccccccc
+  #DDDDDD#######bbbbbbbccccccc
+
+Final ROOM_2   size: 14x21
+Final ROOM_3   size: 7x21
+Final ROOM_4   size: 6x3
+Final ROOM_5   size: 4x3
+Final ROOM_6   size: 4x3
+Final ROOM_7   size: 3x3
+Final ROOM_8   size: 5x7
+Final ROOM_9   size: 5x3
+Final ROOM_10   size: 3x4
+Final ROOM_11   size: 6x7
+
+--==| Connecting Rooms |==--
+
+Teleporter quota: NONE
+Big Branch Mode: 99%
+Start room: ROOM_4
+
+--==| Make Quests |==--
+
+Monster max_level: 4.6
+Weapon max level: 10.0
+Zone list:
+  ZONE_1 : rooms:4 head:ROOM_4 solve:KEY(kc_red)
+  ZONE_2 : rooms:4 head:ROOM_2 solve:KEY(kc_yellow)
+  ZONE_3 : rooms:2 head:ROOM_10 solve:EXIT()
+Exit room: ROOM_5
+Final Battle in ROOM_10
+Facade for ZONE_1 : MODWALL1
+Facade for ZONE_2 : MODWALL3
+Facade for ZONE_3 : BIGBRIK1
+Weapon quota: 3
+Weapon list:
+   shotty
+   super
+   chain
+
+--==| Build Rooms |==--
+
+
+--==| Make Battles |==--
+
+
+Giving weapon: shotty
+Giving weapon: super
+Giving weapon: chain
+DOOM CSG...
+Removed 14779 dead regions (of 23103)
+Swallowed 800 brushes (of 14920)
+Filled 116 gaps (of 5634 total)
+Lighting level...
+Found 72 light entities, 1039 lit faces, 0 sky faces
+WARNING: degenerate linedef @ (5261 448)
+WARNING: degenerate linedef @ (4557 2176)
+WARNING: degenerate linedef @ (4531 1088)
+WARNING: degenerate linedef @ (4493 640)
+WARNING: degenerate linedef @ (4365 2816)
+WARNING: degenerate linedef @ (4211 2944)
+WARNING: degenerate linedef @ (4211 2368)
+WARNING: degenerate linedef @ (3238 768)
+WARNING: degenerate linedef @ (3238 192)
+WARNING: degenerate linedef @ (2893 1728)
+WARNING: degenerate linedef @ (2867 3456)
+WARNING: degenerate linedef @ (2771 1441)
+WARNING: degenerate linedef @ (2739 576)
+WARNING: degenerate linedef @ (2675 1152)
+WARNING: degenerate linedef @ (2509 1536)
+WARNING: degenerate linedef @ (2253 2240)
+WARNING: degenerate linedef @ (1907 2048)
+Merged 1615 colinear lines
+Rounded 106 square corners
+Aligned 2001 textures
+Merging WAD sections from: doom_falls.wad
+Opened WAD file: C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/data/doom_falls.wad
+Closed WAD file
+Merging WAD sections from: metal_step.wad
+Opened WAD file: C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/data/metal_step.wad
+Closed WAD file
+Merging WAD sections from: vine_dude.wad
+Opened WAD file: C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/data/vine_dude.wad
+Closed WAD file
+Merging WAD sections from: logos.wad
+Opened WAD file: C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/data/logos.wad
+Closed WAD file
+
+~~~~~~ Finished Making Levels ~~~~~~
+
+Writing WAD directory
+Closed WAD file
+
+GLBSP: Opened PWAD file : C:\Users\Don\Desktop\DOOM\wads\generated\medium urban.tmp
+GLBSP: 
+GLBSP: Building normal and GL nodes on MAP01
+GLBSP: 
+GLBSP: Saving WAD as C:\Users\Don\Desktop\DOOM\wads\generated\medium urban.wad
+GLBSP: 
+GLBSP: Total serious warnings: 0
+GLBSP: Total minor warnings: 0
+GLBSP: 
+GLBSP: All levels were built successfully.
+Saving Options...
+DONE.
+
+
+TOTAL TIME: 13.35 seconds
+
+Saving Config...
+DONE.
+
+Created WAD file: C:\Users\Don\Desktop\DOOM\wads\generated\medium urban2.wad
+
+
+~~~~~~~ Making Levels ~~~~~~~
+
+game = doom2
+mode = sp
+engine = gzdoom
+length = single
+seed = 1473820221
+
+theme = urban
+size = regular
+outdoors = none
+caves = none
+
+mons = normal
+strength = medium
+weapons = normal
+powers = normal
+health = normal
+ammo = normal
+
+---- Modules ----
+
+@doom_mon_control = 0
+
+caco = default
+gunner = default
+Mastermind = default
+skull = default
+demon = default
+knight = default
+ss_dude = default
+vile = default
+zombie = default
+Cyberdemon = default
+baron = default
+spectre = default
+arach = default
+mancubus = default
+revenant = default
+pain = default
+imp = default
+shooter = default
+
+@doom_weapon_control = 0
+
+super = default
+saw = default
+chain = default
+plasma = default
+launch = default
+bfg = default
+berserk = default
+shotty = default
+
+@export_map = 0
+
+@gameplay_tweaks = 0
+
+quiet_start = no
+keep_weapons = no
+start_together = no
+
+@heretic_mon_control = 0
+
+mummy = default
+Maulotaur = default
+sabreclaw = default
+gargoyle = default
+leader = default
+weredragon = default
+fire_garg = default
+ohpibian = default
+D_Sparil = default
+Ironlich = default
+knight = default
+disciple = default
+
+@heretic_weapon_control = 0
+
+crossbow = default
+gauntlets = default
+hellstaff = default
+claw = default
+firemace = default
+phoenix = default
+
+@imm_conduct = 0
+
+helper = mixed
+new_mons = scarce
+
+@level_control = 0
+
+secrets = mixed
+big_rooms = mixed
+doors = mixed
+hallways = mixed
+ex_floors = mixed
+darkness = mixed
+windows = mixed
+switches = mixed
+steepness = mixed
+pillars = mixed
+sub_rooms = mixed
+teleporters = mixed
+crates = mixed
+lakes = mixed
+traps = mixed
+symmetry = mixed
+cages = mixed
+scenics = mixed
+pictures = mixed
+mon_variety = mixed
+liquids = mixed
+
+@music_swapper = 0
+
+@no_prebuilt_doom = 0
+
+@quake2_mon_control = 0
+
+Huge_flyer = default
+parasite = default
+beserker = default
+brain = default
+enforcer = default
+grenader = default
+medic = default
+guard = default
+guard_mg = default
+Super_tank = default
+tank_cmdr = default
+flyer = default
+shark = default
+tank = default
+gladiator = default
+maiden = default
+mutant = default
+icarus = default
+guard_sg = default
+technician = default
+
+@quake2_weapon_control = 0
+
+rocket = default
+rail = default
+machine = default
+shotty = default
+chain = default
+ssg = default
+bfg = default
+hyper = default
+grenade = default
+
+@quake_mon_control = 0
+
+grunt = default
+fiend = default
+death_kt = default
+ogre = default
+enforcer = default
+fish = default
+dog = default
+knight = default
+tarbaby = default
+shambler = default
+vore = default
+scrag = default
+zombie = default
+
+@quake_weapon_control = 0
+
+rocket = default
+nailgun = default
+ssg = default
+nailgun2 = default
+zapper = default
+grenade = default
+
+@sktag_mon_control = 0
+
+cacolant = default
+superguy = default
+darkimp = default
+bldemon = default
+abaddon = default
+belphegor = default
+hectebus = default
+
+@sktag_mons = 0
+
+def_mon = some
+def_weap = some
+
+@sktag_weap_control = 0
+
+bfg10k = default
+minigun = default
+glaunch = default
+railgun = default
+
+@sky_generator = 0
+
+@stealth_mon_control = 0
+
+stealth_demon = default
+stealth_baron = default
+stealth_zombie = default
+stealth_caco = default
+stealth_imp = default
+stealth_mancubus = default
+stealth_arach = default
+stealth_revenant = default
+stealth_shooter = default
+stealth_vile = default
+stealth_knight = default
+stealth_gunner = default
+
+@stealth_mons = 0
+
+qty = normal
+
+@theme_ctl_doom1 = 0
+
+episode4 = no_change
+episode3 = no_change
+secret = no_change
+episode2 = no_change
+episode1 = no_change
+
+@theme_ctl_doom2 = 0
+
+secret = no_change
+episode2 = no_change
+episode3 = no_change
+episode1 = no_change
+
+@zdoom_marine_control = 0
+
+marine_bfg = default
+marine_chain = default
+marine_pistol = default
+marine_ssg = default
+marine_rail = default
+marine_berserk = default
+marine_plasma = default
+marine_rocket = default
+marine_fist = default
+marine_saw = default
+marine_shotty = default
+
+@zdoom_marines = 0
+
+qty = plenty
+
+-- END --
+
+Theme for level MAP01 = urban
+
+Special levels:
+  none
+
+
+~~~~~~| MAP01 |~~~~~~
+
+Styles = 
+{
+  ambushes = none
+  barrels = some
+  beams = few
+  big_juncs = none
+  big_rooms = some
+  cages = none
+  caves = none
+  closets = heaps
+  crates = some
+  crossovers = none
+  cycles = some
+  doors = few
+  ex_floors = few
+  fences = few
+  hallways = few
+  islands = heaps
+  junk = some
+  lakes = few
+  liquids = some
+  lt_spokes = none
+  lt_swapped = heaps
+  lt_trim = none
+  mon_variety = some
+  outdoors = none
+  pictures = some
+  pillars = few
+  room_shape = none
+  scenics = some
+  secrets = heaps
+  steepness = some
+  sub_rooms = none
+  switches = some
+  symmetry = heaps
+  teleporters = none
+  traps = heaps
+  windows = some
+}
+
+
+--==| Planning Rooms |==--
+
+Liquid: skipped for level (by style).
+
+Map Size: 6x4 sections
+col_W: 6 4 3 4 3 5 
+row_H: 5 3 3 5 
+Seed_init: 31x22  Free: 0x4
+Reserved room quota: 1
+Caves: SKIPPED (by style)
+
+Room Map:
+  FFEMAP
+  GLQBON
+  HHKDCC
+  IJJDCC
+
+Outdoors: NONE
+Seed Map:
+  ...............................
+  ...............................
+  ...............................
+  ...............................
+  #######################PPPPPP##
+  #############EEEE###***PPPPPP##
+  #############EEEEMMM***PPPPPP##
+  #FFFFFFFFFFFFEEEEMMM***PPPPPP##
+  #FFFFFFFFFFFFEEEEMMMOOOPPPPPP##
+  #FFFFFFFFFFFFEEEEMMMOOOPPPPPP##
+  #FFFFFFFFFFFFQQQBBBBOOOPPPPPP##
+  #FFFFFFFFFFFFQQQBBBBOOONNNNNNN#
+  #GGGGGLLLLLLLQQQBBBBOOONNNNNNN#
+  #GGGGGLLLLLLLQQQDDDDOOONNNNNNN#
+  #GGGGGLLLLLLLKKKDDDDOOONNNNNNN#
+  #HHHHHHHHHHHHKKKDDDDCCCCCCCC###
+  #HHHHHHHHHHHHKKKDDDDCCCCCCCC###
+  #HHHHHHHHHHHHKKKDDDDCCCCCCCC###
+  ##IIIIIJJJJJJJJJDDDDCCCCCCCC###
+  ##IIIIIJJJJJJJJJDDDDCCCCCCCC###
+  ##IIIIIJJJJJJJJJDDDDCCCCCCCC###
+  ##IIIIIJJJJJJJJJDDDDCCCCCCCC###
+  ##IIIIIJJJJJJJJJDDDDCCCCCCCC###
+  ##IIIII#########DDDD###########
+  ###############################
+  ###############################
+
+Final ROOM_2   size: 4x3
+Final ROOM_3   size: 8x8
+Final ROOM_4   size: 4x11
+Final ROOM_5   size: 4x5
+Final ROOM_6   size: 12x5
+Final ROOM_7   size: 5x3
+Final ROOM_8   size: 12x3
+Final ROOM_9   size: 5x6
+Final ROOM_10   size: 9x5
+Final ROOM_11   size: 3x4
+Final ROOM_12   size: 7x3
+Final ROOM_13   size: 3x4
+Final ROOM_14   size: 7x4
+Final ROOM_15   size: 3x7
+Final ROOM_16   size: 6x7
+Final ROOM_17   size: 3x4
+
+--==| Connecting Rooms |==--
+
+Teleporter quota: NONE
+Big Branch Mode: 99%
+Start room: ROOM_5
+
+--==| Make Quests |==--
+
+Monster max_level: 2.7
+Weapon max level: 10.0
+Zone list:
+  ZONE_1 : rooms:6 head:ROOM_5 solve:KEY(kc_blue)
+  ZONE_3 : rooms:5 head:ROOM_12 solve:KEY(kc_yellow)
+  ZONE_2 : rooms:5 head:ROOM_4 solve:EXIT()
+Exit room: ROOM_3
+Facade for ZONE_1 : BLAKWAL2
+Facade for ZONE_3 : BIGBRIK2
+Facade for ZONE_2 : BIGBRIK1
+Weapon quota: 3
+Weapon list:
+   super
+   chain
+   bfg
+
+--==| Build Rooms |==--
+
+
+--==| Make Battles |==--
+
+
+Giving weapon: super
+Giving weapon: chain
+Giving weapon: bfg
+DOOM CSG...
+Removed 15872 dead regions (of 23472)
+Swallowed 1724 brushes (of 15930)
+Filled 8 gaps (of 6420 total)
+Lighting level...
+Found 135 light entities, 269 lit faces, 0 sky faces
+Merged 2807 colinear lines
+Rounded 30 square corners
+Aligned 1367 textures
+Merging WAD sections from: doom_falls.wad
+Opened WAD file: C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/data/doom_falls.wad
+Closed WAD file
+Merging WAD sections from: metal_step.wad
+Opened WAD file: C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/data/metal_step.wad
+Closed WAD file
+Merging WAD sections from: vine_dude.wad
+Opened WAD file: C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/data/vine_dude.wad
+Closed WAD file
+Merging WAD sections from: logos.wad
+Opened WAD file: C:\Users\Don\Desktop\DOOM\oblige-620-win\Oblige-6.20/data/logos.wad
+Closed WAD file
+
+~~~~~~ Finished Making Levels ~~~~~~
+
+Writing WAD directory
+Closed WAD file
+
+GLBSP: Opened PWAD file : C:\Users\Don\Desktop\DOOM\wads\generated\medium urban2.tmp
+GLBSP: 
+GLBSP: Building normal and GL nodes on MAP01
+GLBSP: 
+GLBSP: Saving WAD as C:\Users\Don\Desktop\DOOM\wads\generated\medium urban2.wad
+GLBSP: 
+GLBSP: Total serious warnings: 0
+GLBSP: Total minor warnings: 0
+GLBSP: 
+GLBSP: All levels were built successfully.
+Saving Options...
+DONE.
+
+
+TOTAL TIME: 7.08 seconds
+
+Saving Config...
+DONE.
+
+
+--- CLOSED LUA VM ---
+
+
+====== END OF OBLIGE LOGS ======
+

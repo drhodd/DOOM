@@ -1,0 +1,16 @@
+-- OPTIONS FILE : OBLIGE 6.20
+-- OBLIGE Level Maker (C) 2006-2015 Andrew Apted
+-- http://oblige.sourceforge.net/
+
+alternate_look = 0
+window_size    = 0
+create_backups = 1
+debug_messages = 0
+fast_lighting  = 0
+
+---- Recent Files ----
+
+recent_wad = C:\Users\Don\Desktop\DOOM\wads\generated\1.wad
+recent_wad = C:\Users\Don\Desktop\DOOM\wads\generated\medium urban.wad
+recent_wad = C:\Users\Don\Desktop\DOOM\wads\generated\medium urban2.wad
+

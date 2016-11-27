@@ -1,0 +1,258 @@
+-- CONFIG FILE : OBLIGE 6.20
+-- OBLIGE Level Maker (C) 2006-2015 Andrew Apted
+-- http://oblige.sourceforge.net/
+
+game = doom2
+mode = sp
+engine = gzdoom
+length = single
+seed = 1473820221
+
+theme = urban
+size = regular
+outdoors = none
+caves = none
+
+mons = normal
+strength = medium
+weapons = normal
+powers = normal
+health = normal
+ammo = normal
+
+---- Modules ----
+
+@doom_mon_control = 0
+
+caco = default
+gunner = default
+Mastermind = default
+skull = default
+demon = default
+knight = default
+ss_dude = default
+vile = default
+zombie = default
+Cyberdemon = default
+baron = default
+spectre = default
+arach = default
+mancubus = default
+revenant = default
+pain = default
+imp = default
+shooter = default
+
+@doom_weapon_control = 0
+
+super = default
+saw = default
+chain = default
+plasma = default
+launch = default
+bfg = default
+berserk = default
+shotty = default
+
+@export_map = 0
+
+@gameplay_tweaks = 0
+
+quiet_start = no
+keep_weapons = no
+start_together = no
+
+@heretic_mon_control = 0
+
+mummy = default
+Maulotaur = default
+sabreclaw = default
+gargoyle = default
+leader = default
+weredragon = default
+fire_garg = default
+ohpibian = default
+D_Sparil = default
+Ironlich = default
+knight = default
+disciple = default
+
+@heretic_weapon_control = 0
+
+crossbow = default
+gauntlets = default
+hellstaff = default
+claw = default
+firemace = default
+phoenix = default
+
+@imm_conduct = 0
+
+helper = mixed
+new_mons = scarce
+
+@level_control = 0
+
+secrets = mixed
+big_rooms = mixed
+doors = mixed
+hallways = mixed
+ex_floors = mixed
+darkness = mixed
+windows = mixed
+switches = mixed
+steepness = mixed
+pillars = mixed
+sub_rooms = mixed
+teleporters = mixed
+crates = mixed
+lakes = mixed
+traps = mixed
+symmetry = mixed
+cages = mixed
+scenics = mixed
+pictures = mixed
+mon_variety = mixed
+liquids = mixed
+
+@music_swapper = 0
+
+@no_prebuilt_doom = 0
+
+@quake2_mon_control = 0
+
+Huge_flyer = default
+parasite = default
+beserker = default
+brain = default
+enforcer = default
+grenader = default
+medic = default
+guard = default
+guard_mg = default
+Super_tank = default
+tank_cmdr = default
+flyer = default
+shark = default
+tank = default
+gladiator = default
+maiden = default
+mutant = default
+icarus = default
+guard_sg = default
+technician = default
+
+@quake2_weapon_control = 0
+
+rocket = default
+rail = default
+machine = default
+shotty = default
+chain = default
+ssg = default
+bfg = default
+hyper = default
+grenade = default
+
+@quake_mon_control = 0
+
+grunt = default
+fiend = default
+death_kt = default
+ogre = default
+enforcer = default
+fish = default
+dog = default
+knight = default
+tarbaby = default
+shambler = default
+vore = default
+scrag = default
+zombie = default
+
+@quake_weapon_control = 0
+
+rocket = default
+nailgun = default
+ssg = default
+nailgun2 = default
+zapper = default
+grenade = default
+
+@sktag_mon_control = 0
+
+cacolant = default
+superguy = default
+darkimp = default
+bldemon = default
+abaddon = default
+belphegor = default
+hectebus = default
+
+@sktag_mons = 0
+
+def_mon = some
+def_weap = some
+
+@sktag_weap_control = 0
+
+bfg10k = default
+minigun = default
+glaunch = default
+railgun = default
+
+@sky_generator = 0
+
+@stealth_mon_control = 0
+
+stealth_demon = default
+stealth_baron = default
+stealth_zombie = default
+stealth_caco = default
+stealth_imp = default
+stealth_mancubus = default
+stealth_arach = default
+stealth_revenant = default
+stealth_shooter = default
+stealth_vile = default
+stealth_knight = default
+stealth_gunner = default
+
+@stealth_mons = 0
+
+qty = normal
+
+@theme_ctl_doom1 = 0
+
+episode4 = no_change
+episode3 = no_change
+secret = no_change
+episode2 = no_change
+episode1 = no_change
+
+@theme_ctl_doom2 = 0
+
+secret = no_change
+episode2 = no_change
+episode3 = no_change
+episode1 = no_change
+
+@zdoom_marine_control = 0
+
+marine_bfg = default
+marine_chain = default
+marine_pistol = default
+marine_ssg = default
+marine_rail = default
+marine_berserk = default
+marine_plasma = default
+marine_rocket = default
+marine_fist = default
+marine_saw = default
+marine_shotty = default
+
+@zdoom_marines = 0
+
+qty = plenty
+
+-- END --
