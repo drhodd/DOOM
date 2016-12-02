@@ -8,20 +8,20 @@ maps
 	MAP01
 	{
 		
-		grid
+		resources
 		{
-			backoffsety = 0;
-			backoffsetx = 0;
-			backscalex = 100;
-			gridsize = 32;
-			background = "";
-			backsource = 0;
-			backscaley = 100;
 		}
 		
 		
-		resources
+		grid
 		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 64;
 		}
 		
 	}
