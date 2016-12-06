@@ -1,0 +1,12 @@
+   _________________________
+  /                         /
+ /  ZDL 3.2.2.2            /
+/_________________________/
+
+http://zdl.vectec.net
+(C) ZDL Software Foundation
+
+- Cody "QBasicer" Harris, charris@vectec.net
+- Ryan "BioHazard" Turner 
+- NeuralStunner
+
