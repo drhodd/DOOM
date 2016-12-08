@@ -1,0 +1,46 @@
+================================================================
+Title                   : JBMdeath
+Filename                : JBMdeath.WAD
+Author                  : Jose Mancia
+Email Address           : manciajb@hotmail.com
+Misc. Author Info       : ?
+
+Description             : GREAT DEATHMATCH LEVEL
+
+Additional Credits to   : id
+================================================================
+
+
+Game                    : DOOM II
+Episode and Level #     : Map01
+Single Player           : Yes
+Cooperative 2-4 Player  : Yes
+Deathmatch 2-4 Player   : Yes
+Difficulty Settings     : Yes 
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : No
+
+
+* Construction *
+
+Base                    : New levels from scratch
+Editor(s) used          : DoomCad 
+Known Bugs              : None
+
+* Copyright / Permissions *
+
+Authors may NOT use this levels as a base to build additional
+levels.  
+
+You MAY distribute this WAD, provided you include this file.
+You may distribute this file in any electronic
+format (BBS, Diskette, CD, etc) as long as you include this file
+intact.
+
+Homepages: http://www.angelfire.com/ak/masterofcomputers
+           http://www.angelfire.com/ak/TheWorldOfDoom2
+           http://www.angelfire.com/ak/fresneda
+           http://www.angelfire.com/ak/Mancia
+           

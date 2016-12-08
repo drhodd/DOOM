@@ -1,5 +1,5 @@
 ===========================================================================
-Advanced engine needed  : GZDoom, ZDoom
+Advanced engine needed  : GZDoom
 Primary purpose         : Deathmatch
 ===========================================================================
 Title                   : Castle Argh!
@@ -22,10 +22,10 @@ Description             : This is a deathmatch area. There's a castle with 4
 
                           All weapons are present except the BFG.
                           
-                          As stated elsewhere this map requires ZDoom or
-                          GZDoom and while this map might run on other
-                          engines it will NOT WORK without the bridges, ramps
-                          or the ability to jump. 
+                          As stated elsewhere this map requires GZDoom and
+                          while it might run on other engines it will not play
+                          correctly without the bridges, ramps or the ability
+                          to jump. 
 
 ===========================================================================
 * What is included *
@@ -55,10 +55,10 @@ Difficulty Settings     : Not implemented
 
 Base                    : New from scratch
 Build Time              : Around 20 hours
-Editor(s) used          : Doom Builder
-May Not Run With        : Anything other than ZDoom or GZDoom as it uses Doom
-                          in Hexen format. 
-Tested With             : GZDoom 2.2, 2.1, ZDoom 2.7.1
+Editor(s) used          : Doom Builder, GZDoomBuilder
+May Not Run With        : Anything other than GZDoom as it uses Doom
+                          in Hexen format with dynamic lights. 
+Tested With             : GZDoom 2.2, 2.1
 
 
 * Copyright / Permissions *

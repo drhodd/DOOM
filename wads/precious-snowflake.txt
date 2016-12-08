@@ -1,10 +1,10 @@
 ===========================================================================
-Advanced engine needed  : GZDoom, ZDoom
+Advanced engine needed  : GZDoom
 Primary purpose         : Deathmatch
 ===========================================================================
 Title                   : Precious Snowflake
 Filename                : precious-snowflake.wad
-Release date            : 12-17
+Release date            : 12-16
 Author                  : El Tupi
 Email Address           : drhodd@gmail.com
 Other Files By Author   : Castle Argh, No One Lives Forever!
@@ -48,10 +48,10 @@ Difficulty Settings     : Not implemented
 
 Base                    : New from scratch
 Build Time              : Around 20 hours 
-Editor(s) used          : Doom Builder
-May Not Run With        : Anything other than ZDoom or GZDoom as it uses Doom
-                          in Hexen format. 
-Tested With             : GZDoom 2.2, 2.1, ZDoom 2.7.1
+Editor(s) used          : Doom Builder, GZDoomBuilder
+May Not Run With        : Anything other than GZDoom as it uses Doom
+                          in Hexen format with dynamic lights. 
+Tested With             : GZDoom 2.2, 2.1
 
 
 * Copyright / Permissions *
